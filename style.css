@@ -1,0 +1,494 @@
+
+/* ====================================
+   FutureAI - AI 工具比較器
+   style.css
+==================================== */
+
+/* 1. 全站基本設定 */
+
+:root {
+  --primary: #3974e8;
+  --primary-dark: #2458c5;
+  --heading: #17284d;
+  --text: #52657f;
+  --muted: #64748b;
+  --background: #f4f8ff;
+  --white: #ffffff;
+  --border: #dfe8f6;
+  --shadow: 0 12px 35px rgba(28, 67, 135, 0.08);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont,
+    "Segoe UI", "Noto Sans TC", Arial, sans-serif;
+  background: var(--background);
+  color: var(--text);
+  line-height: 1.7;
+}
+
+button,
+select {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+/* 2. 網站頂部導覽列 */
+
+.site-header {
+  background: rgba(255, 255, 255, 0.96);
+  border-bottom: 1px solid var(--border);
+}
+
+.header-container {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 20px 28px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.logo {
+  font-size: 27px;
+  font-weight: 800;
+  letter-spacing: -1px;
+  color: var(--heading);
+  text-decoration: none;
+}
+
+.logo span {
+  color: var(--primary);
+}
+
+.navigation a {
+  color: var(--primary);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 15px;
+}
+
+.navigation a:hover {
+  color: var(--primary-dark);
+}
+
+/* 3. 主視覺 Hero */
+
+.hero {
+  padding: 90px 24px 80px;
+
+  background:
+    radial-gradient(
+      circle at 85% 20%,
+      rgba(151, 184, 255, 0.24),
+      transparent 35%
+    ),
+    linear-gradient(
+      135deg,
+      #f7fbff 0%,
+      #edf4ff 60%,
+      #e8f0ff 100%
+    );
+}
+
+.hero-content {
+  max-width: 850px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.eyebrow {
+  color: var(--primary);
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.hero h1 {
+  margin: 16px 0 20px;
+  font-size: clamp(32px, 5vw, 54px);
+  line-height: 1.25;
+  color: var(--heading);
+  letter-spacing: -1px;
+}
+
+.hero-description {
+  max-width: 680px;
+  margin: 0 auto;
+  font-size: 18px;
+  color: var(--muted);
+}
+
+/* 4. 比較器主要區塊 */
+
+.comparison-section {
+  padding: 65px 24px 100px;
+}
+
+.comparison-container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 40px;
+
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: 24px;
+  box-shadow: var(--shadow);
+}
+
+.section-heading {
+  text-align: center;
+  margin-bottom: 42px;
+}
+
+.section-heading h2 {
+  margin: 8px 0 12px;
+  font-size: 34px;
+  color: var(--heading);
+}
+
+.section-heading p:last-child {
+  margin: 0;
+  color: var(--muted);
+}
+
+/* 5. 分類按鈕 */
+
+.category-section {
+  margin-bottom: 42px;
+}
+
+.category-section h3,
+.tool-selection h3,
+.results-section h3 {
+  font-size: 21px;
+  color: var(--heading);
+  margin: 0 0 22px;
+}
+
+.category-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.category-btn {
+  border: 1px solid var(--border);
+  background: #edf3ff;
+  color: var(--primary);
+  padding: 12px 22px;
+  border-radius: 30px;
+  font-size: 15px;
+  font-weight: 600;
+
+  transition:
+    background 0.2s,
+    color 0.2s,
+    transform 0.2s;
+}
+
+.category-btn:hover {
+  background: #dce9ff;
+  transform: translateY(-2px);
+}
+
+.category-btn.active,
+.category-btn[aria-pressed="true"] {
+  background: var(--primary);
+  color: var(--white);
+  border-color: var(--primary);
+}
+
+/* 6. 工具選擇器 */
+
+.tool-selection {
+  padding: 32px;
+  margin-bottom: 42px;
+
+  background: #f7faff;
+  border: 1px solid var(--border);
+  border-radius: 18px;
+}
+
+.selection-grid {
+  display: grid;
+  grid-template-columns: 1fr 60px 1fr;
+  align-items: center;
+  gap: 18px;
+}
+
+.selection-card {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.selection-card label {
+  color: var(--heading);
+  font-weight: 600;
+}
+
+.selection-card select {
+  width: 100%;
+  padding: 15px 16px;
+
+  background: var(--white);
+  color: var(--heading);
+  border: 1px solid #ccd9ee;
+  border-radius: 12px;
+  outline: none;
+
+  transition:
+    border-color 0.2s,
+    box-shadow 0.2s;
+}
+
+.selection-card select:focus {
+  border-color: var(--primary);
+  box-shadow: 0 0 0 3px rgba(57, 116, 232, 0.15);
+}
+
+.versus {
+  text-align: center;
+  font-size: 19px;
+  font-weight: 800;
+  color: var(--primary);
+}
+
+/* 7. 開始比較按鈕 */
+
+.compare-action {
+  text-align: center;
+  margin-top: 30px;
+}
+
+#compare-btn {
+  border: none;
+  background: var(--primary);
+  color: var(--white);
+
+  padding: 15px 42px;
+  border-radius: 12px;
+
+  font-size: 16px;
+  font-weight: 700;
+
+  box-shadow: 0 6px 18px rgba(57, 116, 232, 0.2);
+  transition:
+    background 0.2s,
+    transform 0.2s;
+}
+
+#compare-btn:hover {
+  background: var(--primary-dark);
+  transform: translateY(-2px);
+}
+
+#compare-btn:active {
+  transform: translateY(0);
+}
+
+#compare-message {
+  min-height: 24px;
+  margin: 12px 0 0;
+  font-size: 14px;
+  color: #b45309;
+}
+
+/* 8. 比較結果表格 */
+
+.results-section {
+  scroll-margin-top: 30px;
+}
+
+.table-wrapper {
+  width: 100%;
+  overflow-x: auto;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+}
+
+.comparison-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: var(--white);
+}
+
+.comparison-table thead {
+  background: var(--primary);
+  color: var(--white);
+}
+
+.comparison-table th,
+.comparison-table td {
+  padding: 18px 20px;
+  text-align: left;
+  vertical-align: top;
+  border-bottom: 1px solid var(--border);
+}
+
+.comparison-table thead th {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.comparison-table tbody th {
+  width: 24%;
+  min-width: 120px;
+  color: var(--heading);
+  background: #f7faff;
+  font-weight: 700;
+}
+
+.comparison-table tbody td {
+  width: 38%;
+  min-width: 190px;
+  color: var(--text);
+}
+
+.comparison-table tbody tr:last-child th,
+.comparison-table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.comparison-table tbody tr:hover td {
+  background: #f9fbff;
+}
+
+.disclaimer {
+  margin-top: 20px;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+/* 9. 網站頁尾 */
+
+.site-footer {
+  padding: 45px 24px;
+  background: #101d38;
+  color: #b7c6de;
+}
+
+.footer-content {
+  max-width: 1100px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.footer-content h2 {
+  color: var(--white);
+  font-size: 26px;
+  margin: 0 0 12px;
+}
+
+.footer-content p {
+  margin: 8px 0;
+  font-size: 14px;
+}
+
+/* 10. 手機與平板響應式 */
+
+@media (max-width: 768px) {
+
+  .header-container {
+    padding: 16px 20px;
+  }
+
+  .logo {
+    font-size: 23px;
+  }
+
+  .navigation a {
+    font-size: 13px;
+  }
+
+  .hero {
+    padding: 65px 20px;
+  }
+
+  .hero-description {
+    font-size: 16px;
+  }
+
+  .comparison-section {
+    padding: 35px 15px 65px;
+  }
+
+  .comparison-container {
+    padding: 24px 18px;
+    border-radius: 18px;
+  }
+
+  .section-heading h2 {
+    font-size: 28px;
+  }
+
+  .category-buttons {
+    gap: 9px;
+  }
+
+  .category-btn {
+    padding: 10px 16px;
+    font-size: 14px;
+  }
+
+  .tool-selection {
+    padding: 22px 16px;
+  }
+
+  .selection-grid {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+
+  .versus {
+    padding: 4px 0;
+  }
+
+  #compare-btn {
+    width: 100%;
+  }
+
+  .comparison-table th,
+  .comparison-table td {
+    padding: 14px;
+    font-size: 14px;
+  }
+}
+
+/* 11. 鍵盤操作可見焦點 */
+
+.category-btn:focus-visible,
+#compare-btn:focus-visible,
+.navigation a:focus-visible,
+.logo:focus-visible {
+  outline: 3px solid #93b8ff;
+  outline-offset: 3px;
+}
+
+/* 12. 減少動態效果偏好 */
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  .category-btn,
+  #compare-btn {
+    transition: none;
+  }
+}

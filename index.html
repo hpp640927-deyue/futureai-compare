@@ -1,0 +1,294 @@
+
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1.0">
+
+  <meta name="description"
+        content="FutureAI AI 工具比較平台，快速比較不同人工智慧工具的特色與適用情境。">
+
+  <title>AI 工具比較｜FutureAI</title>
+
+  <!-- 載入網頁樣式 -->
+  <link rel="stylesheet" href="style.css">
+
+  <!-- 載入比較功能 -->
+  <script src="script.js" defer></script>
+</head>
+
+<body>
+
+  <!-- 網站頂部 -->
+  <header class="site-header">
+    <div class="header-container">
+      <a class="logo"
+         href="https://futureai55.mobirisesite.com/">
+        Future<span>AI</span>
+      </a>
+
+      <nav class="navigation"
+           aria-label="主要導覽">
+        <a href="https://futureai55.mobirisesite.com/">
+          返回 FutureAI 首頁
+        </a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+
+    <!-- 主視覺區 -->
+    <section class="hero">
+      <div class="hero-content">
+
+        <p class="eyebrow">
+          COMPARE AI TOOLS
+        </p>
+
+        <h1>
+          找到最適合你的 AI 工具
+        </h1>
+
+        <p class="hero-description">
+          從聊天、繪圖、影片、音樂到程式開發，
+          自由選擇兩款 AI 工具，
+          快速比較功能特色與適合用途。
+        </p>
+
+      </div>
+    </section>
+
+    <!-- AI 比較器 -->
+    <section class="comparison-section"
+             aria-labelledby="compare-heading">
+
+      <div class="comparison-container">
+
+        <div class="section-heading">
+          <p class="eyebrow">
+            AI COMPARISON
+          </p>
+
+          <h2 id="compare-heading">
+            AI 工具比較
+          </h2>
+
+          <p>
+            選擇分類及兩款 AI 工具，
+            查看它們的差異。
+          </p>
+        </div>
+
+        <!-- 分類選擇 -->
+        <div class="category-section">
+
+          <h3>第一步：選擇 AI 分類</h3>
+
+          <div class="category-buttons"
+               id="category-buttons"
+               role="group"
+               aria-label="AI 工具分類">
+
+            <button type="button"
+                    class="category-btn active"
+                    data-category="聊天 AI"
+                    aria-pressed="true">
+              聊天 AI
+            </button>
+
+            <button type="button"
+                    class="category-btn"
+                    data-category="繪圖 AI"
+                    aria-pressed="false">
+              繪圖 AI
+            </button>
+
+            <button type="button"
+                    class="category-btn"
+                    data-category="影片 AI"
+                    aria-pressed="false">
+              影片 AI
+            </button>
+
+            <button type="button"
+                    class="category-btn"
+                    data-category="音樂 AI"
+                    aria-pressed="false">
+              音樂 AI
+            </button>
+
+            <button type="button"
+                    class="category-btn"
+                    data-category="程式 AI"
+                    aria-pressed="false">
+              程式 AI
+            </button>
+
+          </div>
+        </div>
+
+        <!-- 工具選擇 -->
+        <div class="tool-selection">
+
+          <h3>第二步：選擇兩款 AI 工具</h3>
+
+          <div class="selection-grid">
+
+            <div class="selection-card">
+              <label for="tool-a">
+                AI 工具 A
+              </label>
+
+              <select id="tool-a"
+                      name="tool-a">
+                <option value="">
+                  請選擇工具
+                </option>
+              </select>
+            </div>
+
+            <div class="versus"
+                 aria-hidden="true">
+              VS
+            </div>
+
+            <div class="selection-card">
+              <label for="tool-b">
+                AI 工具 B
+              </label>
+
+              <select id="tool-b"
+                      name="tool-b">
+                <option value="">
+                  請選擇工具
+                </option>
+              </select>
+            </div>
+
+          </div>
+
+          <div class="compare-action">
+            <button type="button"
+                    id="compare-btn">
+              開始比較
+            </button>
+
+            <p id="compare-message"
+               role="status"
+               aria-live="polite"></p>
+          </div>
+
+        </div>
+
+        <!-- 比較結果 -->
+        <div class="results-section"
+             id="results-section">
+
+          <h3>第三步：查看比較結果</h3>
+
+          <div class="table-wrapper">
+
+            <table class="comparison-table">
+
+              <thead>
+                <tr>
+                  <th scope="col">
+                    比較項目
+                  </th>
+
+                  <th scope="col"
+                      id="result-name-a">
+                    工具 A
+                  </th>
+
+                  <th scope="col"
+                      id="result-name-b">
+                    工具 B
+                  </th>
+                </tr>
+              </thead>
+
+              <tbody id="comparison-results">
+
+                <tr>
+                  <th scope="row">
+                    主要特色
+                  </th>
+                  <td>尚未選擇</td>
+                  <td>尚未選擇</td>
+                </tr>
+
+                <tr>
+                  <th scope="row">
+                    核心功能
+                  </th>
+                  <td>尚未選擇</td>
+                  <td>尚未選擇</td>
+                </tr>
+
+                <tr>
+                  <th scope="row">
+                    適合對象
+                  </th>
+                  <td>尚未選擇</td>
+                  <td>尚未選擇</td>
+                </tr>
+
+                <tr>
+                  <th scope="row">
+                    優勢
+                  </th>
+                  <td>尚未選擇</td>
+                  <td>尚未選擇</td>
+                </tr>
+
+                <tr>
+                  <th scope="row">
+                    注意事項
+                  </th>
+                  <td>尚未選擇</td>
+                  <td>尚未選擇</td>
+                </tr>
+
+              </tbody>
+            </table>
+
+          </div>
+
+          <p class="disclaimer">
+            提醒：AI 工具的功能、價格及使用限制
+            可能隨版本與方案調整，
+            請以各平台官方資訊為準。
+          </p>
+
+        </div>
+
+      </div>
+    </section>
+
+  </main>
+
+  <!-- 網站頁尾 -->
+  <footer class="site-footer">
+
+    <div class="footer-content">
+
+      <h2>FutureAI</h2>
+
+      <p>
+        探索 AI，找到你的最佳選擇。
+      </p>
+
+      <p>
+        © 2026 FutureAI. All Rights Reserved.
+      </p>
+
+    </div>
+
+  </footer>
+
+</body>
+</html>
