@@ -1,0 +1,453 @@
+
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1.0">
+  <title>AI 最新資訊 | FutureAI</title>
+
+  <style>
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: Arial, "Microsoft JhengHei", sans-serif;
+      background: #f2f7ff;
+      color: #183153;
+    }
+
+    a { text-decoration: none; }
+
+    /* FutureAI 統一導覽列 */
+    .futureai-nav {
+      max-width: 1250px;
+      margin: 20px auto;
+      padding: 15px 25px;
+      background: rgba(255,255,255,0.96);
+      border-radius: 45px;
+      box-shadow: 0 10px 30px rgba(30,70,130,0.12);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 20px;
+    }
+
+    .futureai-logo {
+      font-size: 24px;
+      font-weight: bold;
+      color: #4b83e9;
+      white-space: nowrap;
+    }
+
+    .futureai-links {
+      display: flex;
+      align-items: center;
+      gap: 18px;
+      flex-wrap: wrap;
+    }
+
+    .futureai-links a {
+      font-size: 14px;
+      font-weight: bold;
+      color: #26374d;
+    }
+
+    .futureai-links a:hover,
+    .futureai-links a.active {
+      color: #4b83e9;
+    }
+
+    .futureai-links .futureai-cta {
+      background: #4b83e9;
+      color: white;
+      padding: 12px 18px;
+      border-radius: 30px;
+    }
+
+    /* 頁面標題 */
+    .hero {
+      max-width: 1150px;
+      margin: 35px auto;
+      padding: 55px 30px;
+      border-radius: 25px;
+      text-align: center;
+      background: linear-gradient(
+        135deg, #d9eaff, #f8fbff
+      );
+    }
+
+    .hero h1 {
+      font-size: clamp(30px, 5vw, 48px);
+      margin: 15px 0;
+    }
+
+    .hero p {
+      color: #536d8b;
+      line-height: 1.8;
+    }
+
+    .hero-tag {
+      color: #3271c8;
+      font-size: 13px;
+      font-weight: bold;
+      letter-spacing: 2px;
+    }
+
+    /* 內容 */
+    main {
+      max-width: 1150px;
+      margin: auto;
+      padding: 0 20px 60px;
+    }
+
+    .controls {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-bottom: 25px;
+    }
+
+    .controls input,
+    .controls select {
+      padding: 13px 15px;
+      border: 1px solid #c8d9ee;
+      border-radius: 12px;
+      font-size: 15px;
+      background: white;
+      color: #183153;
+    }
+
+    .controls input {
+      flex: 1;
+      min-width: 200px;
+    }
+
+    .status {
+      margin: 15px 0 25px;
+      color: #60758f;
+      font-size: 14px;
+    }
+
+    .news-grid {
+      display: grid;
+      grid-template-columns:
+        repeat(auto-fit, minmax(280px, 1fr));
+      gap: 20px;
+    }
+
+    .news-card {
+      background: white;
+      border-radius: 18px;
+      padding: 25px;
+      box-shadow: 0 5px 20px rgba(25,70,130,0.08);
+      transition: transform 0.2s;
+    }
+
+    .news-card:hover {
+      transform: translateY(-4px);
+    }
+
+    .news-category {
+      display: inline-block;
+      background: #e6f1ff;
+      color: #3271c8;
+      border-radius: 20px;
+      padding: 6px 12px;
+      font-size: 12px;
+      font-weight: bold;
+    }
+
+    .news-card h2 {
+      font-size: 19px;
+      line-height: 1.5;
+      margin: 16px 0 10px;
+    }
+
+    .news-card p {
+      color: #60758f;
+      line-height: 1.7;
+      font-size: 14px;
+    }
+
+    .news-meta {
+      color: #74869c;
+      font-size: 12px;
+      margin: 15px 0;
+    }
+
+    .news-card a {
+      color: #1769c2;
+      font-weight: bold;
+      font-size: 14px;
+    }
+
+    .message {
+      background: white;
+      padding: 35px;
+      border-radius: 18px;
+      text-align: center;
+      color: #60758f;
+      grid-column: 1 / -1;
+    }
+
+    footer {
+      text-align: center;
+      padding: 30px 20px;
+      color: #74869c;
+      font-size: 13px;
+    }
+
+    @media (max-width: 900px) {
+      .futureai-nav {
+        margin: 12px;
+        border-radius: 22px;
+        flex-direction: column;
+      }
+
+      .futureai-links {
+        justify-content: center;
+        gap: 12px;
+      }
+
+      .hero {
+        margin: 20px 12px;
+        padding: 35px 20px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- FutureAI 導覽列 -->
+  <nav class="futureai-nav" aria-label="主要導覽">
+    <a class="futureai-logo"
+       href="https://futureai55.mobirisesite.com/">
+      🌐 FutureAI
+    </a>
+
+    <div class="futureai-links">
+      <a href="https://futureai55.mobirisesite.com/">
+        首頁
+      </a>
+
+      <a href="https://futureai55.mobirisesite.com/">
+        探索 AI 工具
+      </a>
+
+      <a href="./">
+        AI 模型比較
+      </a>
+
+      <a href="recommend.html">
+        需求推薦
+      </a>
+
+      <a class="active" href="news.html"
+         aria-current="page">
+        AI 最新資訊
+      </a>
+
+      <a href="https://futureai55.mobirisesite.com/">
+        關於我們
+      </a>
+
+      <a class="futureai-cta"
+         href="https://futureai55.mobirisesite.com/">
+        開始探索 AI
+      </a>
+    </div>
+  </nav>
+
+  <!-- 主標題 -->
+  <section class="hero">
+    <div class="hero-tag">
+      FUTUREAI NEWS CENTER
+    </div>
+    <h1>掌握全球 AI 最新資訊</h1>
+    <p>
+      AI 模型更新、熱門工具、人工智慧產業趨勢。
+      <br>
+      FutureAI 為你整理最新科技動態。
+    </p>
+  </section>
+
+  <main>
+    <h2>AI 最新消息</h2>
+
+    <div class="controls">
+      <input
+        id="search"
+        type="search"
+        placeholder="搜尋 AI 新聞、工具或來源..."
+        aria-label="搜尋新聞">
+
+      <select id="category"
+              aria-label="新聞分類">
+        <option value="all">全部分類</option>
+        <option value="模型更新">模型更新</option>
+        <option value="AI 工具">AI 工具</option>
+        <option value="產業趨勢">產業趨勢</option>
+        <option value="其他">其他</option>
+      </select>
+
+      <select id="sort" aria-label="排序方式">
+        <option value="newest">最新優先</option>
+        <option value="oldest">最舊優先</option>
+      </select>
+    </div>
+
+    <div class="status" id="status"
+         role="status" aria-live="polite">
+      正在讀取新聞資料...
+    </div>
+
+    <div class="news-grid" id="newsGrid">
+      <div class="message">
+        新聞資料載入中...
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    © FutureAI | AI 最新資訊
+    <p>
+      新聞內容與版權屬於原始發布者。
+      點選文章連結可閱讀原文。
+    </p>
+  </footer>
+
+  <script>
+    let allNews = [];
+
+    const grid = document.getElementById("newsGrid");
+    const status = document.getElementById("status");
+    const search = document.getElementById("search");
+    const category = document.getElementById("category");
+    const sort = document.getElementById("sort");
+
+    function showMessage(message) {
+      grid.replaceChildren();
+      const box = document.createElement("div");
+      box.className = "message";
+      box.textContent = message;
+      grid.appendChild(box);
+    }
+
+    function renderNews() {
+      const keyword = search.value.trim().toLowerCase();
+      const selectedCategory = category.value;
+
+      const filtered = allNews.filter(item => {
+        const searchable = [
+          item.title,
+          item.summary,
+          item.source
+        ].join(" ").toLowerCase();
+
+        const matchesSearch =
+          searchable.includes(keyword);
+
+        const matchesCategory =
+          selectedCategory === "all" ||
+          item.category === selectedCategory;
+
+        return matchesSearch && matchesCategory;
+      });
+
+      filtered.sort((a, b) => {
+        const timeA = Date.parse(a.date) || 0;
+        const timeB = Date.parse(b.date) || 0;
+
+        return sort.value === "newest"
+          ? timeB - timeA
+          : timeA - timeB;
+      });
+
+      grid.replaceChildren();
+      status.textContent =
+        `目前顯示 ${filtered.length} 則新聞`;
+
+      if (filtered.length === 0) {
+        showMessage("目前沒有符合條件的新聞。");
+        return;
+      }
+
+      filtered.forEach(item => {
+        const card = document.createElement("article");
+        card.className = "news-card";
+
+        const tag = document.createElement("span");
+        tag.className = "news-category";
+        tag.textContent = item.category || "其他";
+
+        const title = document.createElement("h2");
+        title.textContent = item.title || "未命名新聞";
+
+        const summary = document.createElement("p");
+        summary.textContent = item.summary || "";
+
+        const meta = document.createElement("div");
+        meta.className = "news-meta";
+
+        const date = item.date
+          ? new Date(item.date).toLocaleDateString(
+              "zh-TW",
+              { timeZone: "Asia/Taipei" }
+            )
+          : "日期未提供";
+
+        meta.textContent =
+          `${item.source || "未知來源"} · ${date}`;
+
+        const link = document.createElement("a");
+        link.href = item.url || "#";
+        link.textContent = "閱讀原文 →";
+        link.target = "_blank";
+        link.rel = "noopener noreferrer";
+
+        card.append(tag, title, summary, meta, link);
+        grid.appendChild(card);
+      });
+    }
+
+    async function loadNews() {
+      try {
+        const response = await fetch(
+          "news.json?t=" + Date.now(),
+          { cache: "no-store" }
+        );
+
+        if (!response.ok) {
+          throw new Error("找不到 news.json");
+        }
+
+        const data = await response.json();
+
+        if (!Array.isArray(data)) {
+          throw new Error("新聞資料格式錯誤");
+        }
+
+        allNews = data;
+        renderNews();
+
+      } catch (error) {
+        status.textContent = "尚未完成新聞資料設定";
+        showMessage(
+          "新聞頁面已建立成功！" +
+          "下一步將新增 news.json 與 RSS 自動更新功能。"
+        );
+        console.error(error);
+      }
+    }
+
+    search.addEventListener("input", renderNews);
+    category.addEventListener("change", renderNews);
+    sort.addEventListener("change", renderNews);
+
+    loadNews();
+  </script>
+
+</body>
+</html>
