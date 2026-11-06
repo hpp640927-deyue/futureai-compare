@@ -17,26 +17,113 @@
 
   <!-- 載入比較功能 -->
   <script src="script.js" defer></script>
+  
+<style>
+  .futureai-nav {
+    max-width: 1250px;
+    margin: 20px auto;
+    padding: 15px 25px;
+    background: rgba(255,255,255,0.96);
+    border-radius: 45px;
+    box-shadow: 0 10px 30px rgba(30,70,130,0.12);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+  }
+
+  .futureai-logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #4b83e9;
+    text-decoration: none;
+    white-space: nowrap;
+  }
+
+  .futureai-links {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 18px;
+  }
+
+  .futureai-links a {
+    font-size: 14px;
+    font-weight: bold;
+    color: #26374d;
+    text-decoration: none;
+  }
+
+  .futureai-links a:hover,
+  .futureai-links a.active {
+    color: #4b83e9;
+  }
+
+  .futureai-links .futureai-cta {
+    background: #4b83e9;
+    color: white;
+    padding: 12px 18px;
+    border-radius: 30px;
+  }
+
+  .futureai-links .futureai-cta:hover {
+    color: white;
+    background: #316ad2;
+  }
+
+  @media (max-width: 900px) {
+    .futureai-nav {
+      margin: 12px;
+      border-radius: 22px;
+      flex-direction: column;
+    }
+
+    .futureai-links {
+      justify-content: center;
+      gap: 12px;
+    }
+  }
+</style>
+
 </head>
 
 <body>
 
   <!-- 網站頂部 -->
-  <header class="site-header">
-    <div class="header-container">
-      <a class="logo"
-         href="https://futureai55.mobirisesite.com/">
-        Future<span>AI</span>
-      </a>
+ 
+<header class="futureai-nav">
+  <a class="futureai-logo"
+     href="https://futureai55.mobirisesite.com/">
+    🌐 FutureAI
+  </a>
 
-      <nav class="navigation"
-           aria-label="主要導覽">
-        <a href="https://futureai55.mobirisesite.com/">
-          返回 FutureAI 首頁
-        </a>
-      </nav>
-    </div>
-  </header>
+  <nav class="futureai-links" aria-label="主要導覽">
+    <a href="https://futureai55.mobirisesite.com/">
+      首頁
+    </a>
+    <a href="https://futureai55.mobirisesite.com/">
+      探索 AI 工具
+    </a>
+    <a href="index.html" class="active"
+       aria-current="page">
+      AI 模型比較
+    </a>
+    <a href="recommend.html">
+      需求推薦
+    </a>
+    <a href="news.html">
+      AI 最新資訊
+    </a>
+    <a href="https://futureai55.mobirisesite.com/">
+      關於我們
+    </a>
+    <a class="futureai-cta"
+       href="https://futureai55.mobirisesite.com/">
+      開始探索 AI
+    </a>
+  </nav>
+</header>
+
 
   <main>
 
