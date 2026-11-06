@@ -1,5 +1,93 @@
 [
   {
+    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+    "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-06T18:44:38+00:00",
+    "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+    "category": "AI 工具"
+  },
+  {
+    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+    "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-06T18:44:20+00:00",
+    "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+    "category": "其他"
+  },
+  {
+    "title": "How a Blue Wave midterm might reshape the AI industry",
+    "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to im",
+    "source": "TechCrunch AI",
+    "date": "2026-11-06T18:00:00+00:00",
+    "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+    "category": "產業趨勢"
+  },
+  {
+    "title": "After the midterms, is the AI industry in for a rough two years?",
+    "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to im",
+    "source": "TechCrunch AI",
+    "date": "2026-11-06T17:23:52+00:00",
+    "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+    "category": "產業趨勢"
+  },
+  {
+    "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+    "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-06T15:54:47+00:00",
+    "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+    "category": "其他"
+  },
+  {
+    "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+    "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-06T14:10:00+00:00",
+    "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+    "category": "其他"
+  },
+  {
+    "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+    "source": "MIT Technology Review",
+    "date": "2026-11-06T13:10:00+00:00",
+    "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+    "category": "其他"
+  },
+  {
+    "title": "Underdog shows off a 32MB speech model in new demo",
+    "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-06T13:02:16+00:00",
+    "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Physicl raises $10M to make the digital world real enough for robots",
+    "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-06T13:00:00+00:00",
+    "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+    "category": "產業趨勢"
+  },
+  {
+    "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+    "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-r",
+    "source": "MIT Technology Review",
+    "date": "2026-11-06T10:00:00+00:00",
+    "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+    "category": "其他"
+  },
+  {
+    "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+    "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-06T06:28:32+00:00",
+    "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+    "category": "其他"
+  },
+  {
     "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
     "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
     "source": "TechCrunch AI",
@@ -389,14 +477,6 @@
     "source": "Google AI Blog",
     "date": "2026-09-10T16:00:00+00:00",
     "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-    "category": "其他"
-  },
-  {
-    "title": "Get ready for the game with new football features in Search",
-    "summary": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
-    "source": "Google AI Blog",
-    "date": "2026-09-09T16:00:00+00:00",
-    "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
     "category": "其他"
   }
 ]
