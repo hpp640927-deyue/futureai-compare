@@ -67,9 +67,101 @@
       margin: 15px 0 25px;
       color: #1769c2;
     }
+    
+/* FutureAI 統一導覽列 */
+.futureai-nav {
+  max-width: 1200px;
+  margin: 20px auto;
+  padding: 12px 24px;
+  background: rgba(255,255,255,0.94);
+  border-radius: 50px;
+  box-shadow: 0 12px 35px rgba(38,82,150,0.12);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+.futureai-logo {
+  color: #4b83e9;
+  font-size: 24px;
+  font-weight: bold;
+  text-decoration: none;
+}
+.futureai-links {
+  display: flex;
+  align-items: center;
+  gap: 22px;
+  flex-wrap: wrap;
+}
+.futureai-links a {
+  color: #222;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 15px;
+}
+.futureai-links a:hover,
+.futureai-links a.active {
+  color: #4b83e9;
+}
+.futureai-cta {
+  background: #4b83e9;
+  color: white !important;
+  padding: 13px 20px;
+  border-radius: 35px;
+}
+@media (max-width: 850px) {
+  .futureai-nav {
+    margin: 12px;
+    border-radius: 22px;
+    flex-direction: column;
+  }
+  .futureai-links {
+    justify-content: center;
+    gap: 14px;
+  }
+}
+
   </style>
 </head>
 <body>
+<nav class="futureai-nav" aria-label="主要導覽">
+  <a class="futureai-logo"
+     href="https://futureai55.mobirisesite.com/">
+    🌐 FutureAI
+  </a>
+
+  <div class="futureai-links">
+    <a href="https://futureai55.mobirisesite.com/">
+      首頁
+    </a>
+
+    <a href="https://futureai55.mobirisesite.com/">
+      探索 AI 工具
+    </a>
+
+    <a href="https://hpp640927-deyue.github.io/futureai-compare/">
+      AI 模型比較
+    </a>
+
+    <a class="active" href="recommend.html">
+      需求推薦
+    </a>
+
+    <a href="https://futureai55.mobirisesite.com/">
+      AI 最新資訊
+    </a>
+
+    <a href="https://futureai55.mobirisesite.com/">
+      關於我們
+    </a>
+
+    <a class="futureai-cta"
+       href="https://futureai55.mobirisesite.com/">
+      開始探索 AI
+    </a>
+  </div>
+</nav>
+
   <header>
     <h1>FutureAI 智慧需求推薦</h1>
     <p>告訴我們你的需求，找到合適的 AI 工具</p>
