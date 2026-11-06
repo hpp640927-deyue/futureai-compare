@@ -1,1 +1,402 @@
-
+[
+  {
+    "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+    "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05T22:40:55+00:00",
+    "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+    "category": "其他"
+  },
+  {
+    "title": "Meta says US users can now video chat with their Muse AI avatar",
+    "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05T19:48:28+00:00",
+    "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+    "category": "其他"
+  },
+  {
+    "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+    "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05T19:12:39+00:00",
+    "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+    "category": "產業趨勢"
+  },
+  {
+    "title": "OpenAI released a new cybersecurity model. Is that enough?",
+    "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05T19:06:12+00:00",
+    "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+    "category": "模型更新"
+  },
+  {
+    "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+    "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05T18:02:27+00:00",
+    "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Claude can now analyze your spending with its new Personal Finance tool",
+    "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05T18:00:00+00:00",
+    "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+    "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+    "source": "Google AI Blog",
+    "date": "2026-11-05T17:00:00+00:00",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Axiom Math wants to keep AI slop out of mathematics",
+    "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05T16:16:45+00:00",
+    "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+    "category": "其他"
+  },
+  {
+    "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+    "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05T15:19:05+00:00",
+    "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+    "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05T14:42:00+00:00",
+    "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+    "category": "其他"
+  },
+  {
+    "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+    "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05T14:00:00+00:00",
+    "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+    "category": "其他"
+  },
+  {
+    "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. T",
+    "source": "MIT Technology Review",
+    "date": "2026-11-05T13:10:00+00:00",
+    "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+    "category": "產業趨勢"
+  },
+  {
+    "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
+    "summary": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05T13:00:00+00:00",
+    "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+    "summary": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05T12:00:00+00:00",
+    "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+    "category": "產業趨勢"
+  },
+  {
+    "title": "A new bill could change how the US builds energy infrastructure",
+    "summary": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the Bipa",
+    "source": "MIT Technology Review",
+    "date": "2026-11-05T10:00:00+00:00",
+    "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+    "category": "其他"
+  },
+  {
+    "title": "Apple is reportedly cutting budgets for its internal AI usage",
+    "summary": "The tokenmaxxing frenzy has been short-lived as bills for said tokens came due, and companies decided that token rationing might be a more fiscally sensible approach.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05T01:26:22+00:00",
+    "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+    "category": "AI 工具"
+  },
+  {
+    "title": "After the midterms, a bigger clash over data centers could be coming",
+    "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-05T01:02:14+00:00",
+    "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+    "category": "其他"
+  },
+  {
+    "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+    "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-04T22:45:09+00:00",
+    "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+    "category": "產業趨勢"
+  },
+  {
+    "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+    "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-04T22:13:16+00:00",
+    "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+    "category": "產業趨勢"
+  },
+  {
+    "title": "Almost no one uses AI agents to book their Uber, company says",
+    "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-04T21:56:01+00:00",
+    "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+    "category": "產業趨勢"
+  },
+  {
+    "title": "OpenAI is already trying to shape the 2028 election",
+    "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-04T21:25:44+00:00",
+    "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Meta acquires AI coding startup Conductor",
+    "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-04T21:10:56+00:00",
+    "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+    "category": "其他"
+  },
+  {
+    "title": "Open source AI is booming. Hugging Face explains who profits.",
+    "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely",
+    "source": "TechCrunch AI",
+    "date": "2026-11-04T19:30:04+00:00",
+    "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+    "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won th",
+    "source": "MIT Technology Review",
+    "date": "2026-11-04T18:50:55+00:00",
+    "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+    "category": "產業趨勢"
+  },
+  {
+    "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+    "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and",
+    "source": "MIT Technology Review",
+    "date": "2026-11-04T18:21:40+00:00",
+    "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+    "category": "其他"
+  },
+  {
+    "title": "What’s next for US energy policy after the midterm elections?",
+    "summary": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the beginning of the blue wave: Democrats took control of both the US House of ",
+    "source": "MIT Technology Review",
+    "date": "2026-11-04T17:08:00+00:00",
+    "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
+    "category": "產業趨勢"
+  },
+  {
+    "title": "The Download: blended meat, restored sight, and the agentic web",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These startups hope “blended” food will cut our appetite for red meat In the fall ",
+    "source": "MIT Technology Review",
+    "date": "2026-11-04T13:10:00+00:00",
+    "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
+    "category": "AI 工具"
+  },
+  {
+    "title": "Securing the agentic enterprise with data lineage",
+    "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the age",
+    "source": "MIT Technology Review",
+    "date": "2026-11-04T13:00:00+00:00",
+    "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+    "category": "其他"
+  },
+  {
+    "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “r",
+    "source": "MIT Technology Review",
+    "date": "2026-11-03T13:10:00+00:00",
+    "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+    "category": "AI 工具"
+  },
+  {
+    "title": "How “reverse game theory” could keep AI agents in check",
+    "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to en",
+    "source": "MIT Technology Review",
+    "date": "2026-11-03T10:43:41+00:00",
+    "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained ",
+    "source": "MIT Technology Review",
+    "date": "2026-11-03T04:18:47+00:00",
+    "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+    "category": "AI 工具"
+  },
+  {
+    "title": "The latest AI news we announced in October 2026",
+    "summary": "Here are Google’s latest AI updates from October 2026",
+    "source": "Google AI Blog",
+    "date": "2026-11-02T17:45:00+00:00",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+    "category": "其他"
+  },
+  {
+    "title": "Our newest AI Quest: Mapping the human brain",
+    "summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+    "source": "Google AI Blog",
+    "date": "2026-10-26T16:00:00+00:00",
+    "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+    "category": "AI 工具"
+  },
+  {
+    "title": "Southeast Asia’s digital economy to hit $368 billion",
+    "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
+    "source": "Google AI Blog",
+    "date": "2026-10-21T04:00:00+00:00",
+    "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+    "category": "其他"
+  },
+  {
+    "title": "Gemini 4 Argon: Built to solve your hardest problems",
+    "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+    "source": "Google AI Blog",
+    "date": "2026-10-13T16:00:00+00:00",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Introducing Playground: Create and play custom games",
+    "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+    "source": "Google AI Blog",
+    "date": "2026-10-07T12:00:00+00:00",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+    "category": "其他"
+  },
+  {
+    "title": "The latest AI news we announced in September 2026",
+    "summary": "Here are Google’s latest AI updates from September 2026",
+    "source": "Google AI Blog",
+    "date": "2026-10-02T15:00:00+00:00",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+    "category": "其他"
+  },
+  {
+    "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+    "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+    "source": "Google AI Blog",
+    "date": "2026-09-28T19:00:00+00:00",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+    "category": "其他"
+  },
+  {
+    "title": "Google Beam expands with new regions, partners, and customers",
+    "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
+    "source": "Google AI Blog",
+    "date": "2026-09-23T18:00:00+00:00",
+    "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+    "category": "其他"
+  },
+  {
+    "title": "New experts join Google’s AI & Economy team",
+    "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
+    "source": "Google AI Blog",
+    "date": "2026-09-18T14:00:00+00:00",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+    "category": "其他"
+  },
+  {
+    "title": "Co-creating the future of fashion with Google",
+    "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
+    "source": "Google AI Blog",
+    "date": "2026-09-18T13:00:00+00:00",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+    "category": "AI 工具"
+  },
+  {
+    "title": "Making global data easier to explore",
+    "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+    "source": "Google AI Blog",
+    "date": "2026-09-17T20:00:00+00:00",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+    "category": "其他"
+  },
+  {
+    "title": "AI for Societal Impact",
+    "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+    "source": "Google AI Blog",
+    "date": "2026-09-15T16:00:00+00:00",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+    "category": "其他"
+  },
+  {
+    "title": "Building AI to accelerate science and improve lives",
+    "summary": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
+    "source": "Google AI Blog",
+    "date": "2026-09-15T16:00:00+00:00",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+    "category": "其他"
+  },
+  {
+    "title": "AI for everyone in every language",
+    "summary": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
+    "source": "Google AI Blog",
+    "date": "2026-09-15T16:00:00+00:00",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+    "category": "模型更新"
+  },
+  {
+    "title": "New insights from Google’s AI & Economy ATLAS",
+    "summary": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience.",
+    "source": "Google AI Blog",
+    "date": "2026-09-15T13:00:00+00:00",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+    "category": "其他"
+  },
+  {
+    "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+    "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
+    "source": "Google AI Blog",
+    "date": "2026-09-14T19:00:00+00:00",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+    "category": "其他"
+  },
+  {
+    "title": "DevFest is back",
+    "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
+    "source": "Google AI Blog",
+    "date": "2026-09-14T16:00:00+00:00",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+    "category": "其他"
+  },
+  {
+    "title": "3 ways to prep for your next big race with Search",
+    "summary": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
+    "source": "Google AI Blog",
+    "date": "2026-09-10T16:00:00+00:00",
+    "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+    "category": "其他"
+  },
+  {
+    "title": "Get ready for the game with new football features in Search",
+    "summary": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
+    "source": "Google AI Blog",
+    "date": "2026-09-09T16:00:00+00:00",
+    "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+    "category": "其他"
+  }
+]
