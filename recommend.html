@@ -1,0 +1,208 @@
+
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI 需求推薦 | FutureAI</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Arial, "Microsoft JhengHei", sans-serif;
+      background: #f1f7ff;
+      color: #183153;
+    }
+    header {
+      background: #123b69;
+      color: white;
+      padding: 28px 20px;
+      text-align: center;
+    }
+    header h1 { margin: 0 0 10px; }
+    main {
+      max-width: 850px;
+      margin: 35px auto;
+      padding: 0 18px;
+    }
+    .panel, .result {
+      background: white;
+      border-radius: 15px;
+      padding: 25px;
+      margin-bottom: 20px;
+      box-shadow: 0 4px 18px #123b6915;
+    }
+    label {
+      display: block;
+      margin: 16px 0 8px;
+      font-weight: bold;
+    }
+    select, button {
+      width: 100%;
+      padding: 13px;
+      border-radius: 9px;
+      font-size: 16px;
+    }
+    select { border: 1px solid #a8bdd5; }
+    button {
+      margin-top: 22px;
+      background: #1769c2;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    button:hover { background: #0d4f99; }
+    .result { border-left: 5px solid #1769c2; }
+    .result h3 { margin-top: 0; }
+    .result a { color: #1769c2; }
+    .tag {
+      display: inline-block;
+      padding: 5px 10px;
+      background: #e5f1ff;
+      border-radius: 20px;
+      font-size: 13px;
+    }
+    .back {
+      display: inline-block;
+      margin: 15px 0 25px;
+      color: #1769c2;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>FutureAI 智慧需求推薦</h1>
+    <p>告訴我們你的需求，找到合適的 AI 工具</p>
+  </header>
+
+  <main>
+    <section class="panel">
+      <h2>你想使用 AI 完成什麼工作？</h2>
+
+      <label for="need">選擇主要需求</label>
+      <select id="need">
+        <option value="writing">寫作、報告與文案</option>
+        <option value="coding">程式設計與除錯</option>
+        <option value="image">圖片與視覺設計</option>
+        <option value="video">影片製作</option>
+        <option value="research">研究與資料整理</option>
+        <option value="presentation">簡報與文件</option>
+      </select>
+
+      <label for="budget">預算偏好</label>
+      <select id="budget">
+        <option value="all">不限，推薦合適工具</option>
+        <option value="free">優先推薦有免費方案的工具</option>
+      </select>
+
+      <button id="recommendBtn">開始推薦 AI 工具</button>
+    </section>
+
+    <section id="results" aria-live="polite"></section>
+
+    <a class="back"
+       href="https://futureai55.mobirisesite.com/">
+       ← 返回 FutureAI 首頁
+    </a>
+  </main>
+
+  <script>
+    const tools = {
+      writing: [
+        ["ChatGPT", "文字創作、報告規劃與修改",
+         "https://chatgpt.com/", true],
+        ["Claude", "長篇文章整理與文字分析",
+         "https://claude.ai/", true],
+        ["Gemini", "寫作與多用途內容生成",
+         "https://gemini.google.com/", true]
+      ],
+      coding: [
+        ["ChatGPT", "程式教學、解釋與除錯",
+         "https://chatgpt.com/", true],
+        ["GitHub Copilot", "編輯器內程式輔助",
+         "https://github.com/features/copilot", true],
+        ["Claude", "理解、修改與重構程式碼",
+         "https://claude.ai/", true]
+      ],
+      image: [
+        ["ChatGPT", "圖片生成與編輯",
+         "https://chatgpt.com/", true],
+        ["Adobe Firefly", "圖片與設計素材生成",
+         "https://firefly.adobe.com/", true],
+        ["Canva", "社群圖片與平面設計",
+         "https://www.canva.com/", true]
+      ],
+      video: [
+        ["Runway", "AI 影片生成與編輯",
+         "https://runwayml.com/", true],
+        ["Pika", "短影片與動畫效果",
+         "https://pika.art/", true],
+        ["CapCut", "影片剪輯與字幕",
+         "https://www.capcut.com/", true]
+      ],
+      research: [
+        ["Perplexity", "搜尋資料與查找來源",
+         "https://www.perplexity.ai/", true],
+        ["NotebookLM", "整理文件與學習資料",
+         "https://notebooklm.google.com/", true],
+        ["ChatGPT", "研究規劃與摘要整理",
+         "https://chatgpt.com/", true]
+      ],
+      presentation: [
+        ["Gamma", "快速產生簡報初稿",
+         "https://gamma.app/", true],
+        ["Canva", "簡報版型與視覺設計",
+         "https://www.canva.com/", true],
+        ["ChatGPT", "簡報架構與內容撰寫",
+         "https://chatgpt.com/", true]
+      ]
+    };
+
+    document.getElementById("recommendBtn")
+      .addEventListener("click", function () {
+        const need = document.getElementById("need").value;
+        const budget = document.getElementById("budget").value;
+        const results = document.getElementById("results");
+
+        results.replaceChildren();
+
+        const matches = tools[need].filter(tool =>
+          budget === "all" || tool[3]
+        );
+
+        if (matches.length === 0) {
+          results.textContent = "目前沒有符合條件的工具。";
+          return;
+        }
+
+        matches.forEach((tool, index) => {
+          const card = document.createElement("article");
+          card.className = "result";
+
+          const title = document.createElement("h3");
+          title.textContent = `${index + 1}. ${tool[0]}`;
+
+          const description = document.createElement("p");
+          description.textContent = tool[1];
+
+          const tag = document.createElement("span");
+          tag.className = "tag";
+          tag.textContent = tool[3]
+            ? "提供免費使用選項"
+            : "付費工具";
+
+          const link = document.createElement("p");
+          const anchor = document.createElement("a");
+          anchor.href = tool[2];
+          anchor.target = "_blank";
+          anchor.rel = "noopener noreferrer";
+          anchor.textContent = "前往官方網站 →";
+          link.appendChild(anchor);
+
+          card.append(title, description, tag, link);
+          results.appendChild(card);
+        });
+      });
+  </script>
+</body>
+</html>
