@@ -1,5 +1,21 @@
 [
   {
+    "title": "Crusoe sells troubled Wyoming data center project to Google",
+    "summary": "The deal highlights the challenges of developing massive AI data centers.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-07T01:40:28+00:00",
+    "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+    "category": "其他"
+  },
+  {
+    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+    "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-06T22:53:46+00:00",
+    "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+    "category": "模型更新"
+  },
+  {
     "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
     "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
     "source": "TechCrunch AI",
@@ -461,22 +477,6 @@
     "source": "Google AI Blog",
     "date": "2026-09-14T19:00:00+00:00",
     "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-    "category": "其他"
-  },
-  {
-    "title": "DevFest is back",
-    "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
-    "source": "Google AI Blog",
-    "date": "2026-09-14T16:00:00+00:00",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-    "category": "其他"
-  },
-  {
-    "title": "3 ways to prep for your next big race with Search",
-    "summary": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
-    "source": "Google AI Blog",
-    "date": "2026-09-10T16:00:00+00:00",
-    "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
     "category": "其他"
   }
 ]
