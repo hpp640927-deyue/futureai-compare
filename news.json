@@ -1,5 +1,21 @@
 [
   {
+    "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+    "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-07T22:07:22+00:00",
+    "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+    "category": "產業趨勢"
+  },
+  {
+    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+    "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-07T21:17:08+00:00",
+    "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+    "category": "其他"
+  },
+  {
     "title": "Crusoe sells troubled Wyoming data center project to Google",
     "summary": "The deal highlights the challenges of developing massive AI data centers.",
     "source": "TechCrunch AI",
@@ -462,21 +478,5 @@
     "date": "2026-09-15T16:00:00+00:00",
     "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
     "category": "模型更新"
-  },
-  {
-    "title": "New insights from Google’s AI & Economy ATLAS",
-    "summary": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience.",
-    "source": "Google AI Blog",
-    "date": "2026-09-15T13:00:00+00:00",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
-    "category": "其他"
-  },
-  {
-    "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-    "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
-    "source": "Google AI Blog",
-    "date": "2026-09-14T19:00:00+00:00",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-    "category": "其他"
   }
 ]
