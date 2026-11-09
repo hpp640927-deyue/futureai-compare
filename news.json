@@ -1,5 +1,109 @@
 [
   {
+    "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+    "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-09T20:09:06+00:00",
+    "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+    "category": "其他"
+  },
+  {
+    "title": "The backlash about data centers might really just be about electricity",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, p",
+    "source": "MIT Technology Review",
+    "date": "2026-11-09T19:35:33+00:00",
+    "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+    "category": "AI 工具"
+  },
+  {
+    "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+    "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-09T19:24:51+00:00",
+    "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+    "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-09T18:09:52+00:00",
+    "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+    "category": "產業趨勢"
+  },
+  {
+    "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+    "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-09T18:00:00+00:00",
+    "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+    "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco ",
+    "source": "MIT Technology Review",
+    "date": "2026-11-09T17:05:43+00:00",
+    "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+    "category": "其他"
+  },
+  {
+    "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+    "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-09T16:56:54+00:00",
+    "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+    "category": "其他"
+  },
+  {
+    "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+    "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-09T16:12:28+00:00",
+    "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+    "category": "AI 工具"
+  },
+  {
+    "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+    "summary": "Automattic aims to compete with the likes of Lovable with Spacefast.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-09T14:00:00+00:00",
+    "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+    "category": "AI 工具"
+  },
+  {
+    "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The climate case for AI has not been made —By Mary Nichols, distinguished",
+    "source": "MIT Technology Review",
+    "date": "2026-11-09T13:15:00+00:00",
+    "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+    "category": "其他"
+  },
+  {
+    "title": "Innovating with AI in the special chemicals industry",
+    "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practi",
+    "source": "MIT Technology Review",
+    "date": "2026-11-09T13:00:00+00:00",
+    "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+    "category": "模型更新"
+  },
+  {
+    "title": "The climate case for AI has not been made",
+    "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to e",
+    "source": "MIT Technology Review",
+    "date": "2026-11-09T10:00:00+00:00",
+    "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+    "category": "其他"
+  },
+  {
+    "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s ‘about a 50-50’",
+    "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-09T05:26:29+00:00",
+    "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+    "category": "其他"
+  },
+  {
     "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
     "summary": "In a memo to the company, Huang admitted that he had an affair.",
     "source": "TechCrunch AI",
@@ -21,6 +125,14 @@
     "source": "TechCrunch AI",
     "date": "2026-11-07T21:17:08+00:00",
     "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+    "category": "其他"
+  },
+  {
+    "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+    "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communit",
+    "source": "TechCrunch AI",
+    "date": "2026-11-07T04:16:43+00:00",
+    "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
     "category": "其他"
   },
   {
@@ -366,117 +478,5 @@
     "date": "2026-11-03T10:43:41+00:00",
     "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
     "category": "模型更新"
-  },
-  {
-    "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained ",
-    "source": "MIT Technology Review",
-    "date": "2026-11-03T04:18:47+00:00",
-    "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
-    "category": "AI 工具"
-  },
-  {
-    "title": "The latest AI news we announced in October 2026",
-    "summary": "Here are Google’s latest AI updates from October 2026",
-    "source": "Google AI Blog",
-    "date": "2026-11-02T17:45:00+00:00",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-    "category": "其他"
-  },
-  {
-    "title": "Our newest AI Quest: Mapping the human brain",
-    "summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
-    "source": "Google AI Blog",
-    "date": "2026-10-26T16:00:00+00:00",
-    "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-    "category": "AI 工具"
-  },
-  {
-    "title": "Southeast Asia’s digital economy to hit $368 billion",
-    "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
-    "source": "Google AI Blog",
-    "date": "2026-10-21T04:00:00+00:00",
-    "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-    "category": "其他"
-  },
-  {
-    "title": "Gemini 4 Argon: Built to solve your hardest problems",
-    "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
-    "source": "Google AI Blog",
-    "date": "2026-10-13T16:00:00+00:00",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-    "category": "模型更新"
-  },
-  {
-    "title": "Introducing Playground: Create and play custom games",
-    "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
-    "source": "Google AI Blog",
-    "date": "2026-10-07T12:00:00+00:00",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-    "category": "其他"
-  },
-  {
-    "title": "The latest AI news we announced in September 2026",
-    "summary": "Here are Google’s latest AI updates from September 2026",
-    "source": "Google AI Blog",
-    "date": "2026-10-02T15:00:00+00:00",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-    "category": "其他"
-  },
-  {
-    "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-    "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-    "source": "Google AI Blog",
-    "date": "2026-09-28T19:00:00+00:00",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-    "category": "其他"
-  },
-  {
-    "title": "Google Beam expands with new regions, partners, and customers",
-    "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
-    "source": "Google AI Blog",
-    "date": "2026-09-23T18:00:00+00:00",
-    "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-    "category": "其他"
-  },
-  {
-    "title": "New experts join Google’s AI & Economy team",
-    "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
-    "source": "Google AI Blog",
-    "date": "2026-09-18T14:00:00+00:00",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-    "category": "其他"
-  },
-  {
-    "title": "Co-creating the future of fashion with Google",
-    "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
-    "source": "Google AI Blog",
-    "date": "2026-09-18T13:00:00+00:00",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-    "category": "AI 工具"
-  },
-  {
-    "title": "Making global data easier to explore",
-    "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
-    "source": "Google AI Blog",
-    "date": "2026-09-17T20:00:00+00:00",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-    "category": "其他"
-  },
-  {
-    "title": "AI for Societal Impact",
-    "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
-    "source": "Google AI Blog",
-    "date": "2026-09-15T16:00:00+00:00",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-    "category": "其他"
-  },
-  {
-    "title": "Building AI to accelerate science and improve lives",
-    "summary": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
-    "source": "Google AI Blog",
-    "date": "2026-09-15T16:00:00+00:00",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-    "category": "其他"
   }
 ]
