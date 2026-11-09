@@ -1,5 +1,13 @@
 [
   {
+    "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+    "summary": "In a memo to the company, Huang admitted that he had an affair.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-08T21:00:11+00:00",
+    "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+    "category": "產業趨勢"
+  },
+  {
     "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
     "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
     "source": "TechCrunch AI",
@@ -470,13 +478,5 @@
     "date": "2026-09-15T16:00:00+00:00",
     "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
     "category": "其他"
-  },
-  {
-    "title": "AI for everyone in every language",
-    "summary": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
-    "source": "Google AI Blog",
-    "date": "2026-09-15T16:00:00+00:00",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-    "category": "模型更新"
   }
 ]
