@@ -1,5 +1,37 @@
 [
   {
+    "title": "Anthropic reportedly plans to move forward with IPO plans",
+    "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-10T01:27:12+00:00",
+    "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+    "category": "產業趨勢"
+  },
+  {
+    "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+    "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-09T23:28:37+00:00",
+    "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+    "category": "其他"
+  },
+  {
+    "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+    "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-09T22:46:09+00:00",
+    "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+    "category": "其他"
+  },
+  {
+    "title": "The race is on to sue Nvidia",
+    "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all ",
+    "source": "TechCrunch AI",
+    "date": "2026-11-09T22:23:42+00:00",
+    "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+    "category": "產業趨勢"
+  },
+  {
     "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
     "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
     "source": "TechCrunch AI",
@@ -446,37 +478,5 @@
     "date": "2026-11-04T17:08:00+00:00",
     "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
     "category": "產業趨勢"
-  },
-  {
-    "title": "The Download: blended meat, restored sight, and the agentic web",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These startups hope “blended” food will cut our appetite for red meat In the fall ",
-    "source": "MIT Technology Review",
-    "date": "2026-11-04T13:10:00+00:00",
-    "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
-    "category": "AI 工具"
-  },
-  {
-    "title": "Securing the agentic enterprise with data lineage",
-    "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the age",
-    "source": "MIT Technology Review",
-    "date": "2026-11-04T13:00:00+00:00",
-    "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-    "category": "其他"
-  },
-  {
-    "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “r",
-    "source": "MIT Technology Review",
-    "date": "2026-11-03T13:10:00+00:00",
-    "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
-    "category": "AI 工具"
-  },
-  {
-    "title": "How “reverse game theory” could keep AI agents in check",
-    "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to en",
-    "source": "MIT Technology Review",
-    "date": "2026-11-03T10:43:41+00:00",
-    "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-    "category": "模型更新"
   }
 ]
