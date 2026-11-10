@@ -1,5 +1,157 @@
 [
   {
+    "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+    "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+    "source": "TechCrunch AI",
+    "date": "2026-11-10T19:23:34+00:00",
+    "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+    "category": "產業趨勢"
+  },
+  {
+    "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+    "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-10T19:03:52+00:00",
+    "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Gemini Intelligence: New features, on more devices",
+    "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
+    "source": "Google AI Blog",
+    "date": "2026-11-10T19:00:00+00:00",
+    "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+    "category": "模型更新"
+  },
+  {
+    "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+    "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-10T18:49:52+00:00",
+    "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+    "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figur",
+    "source": "TechCrunch AI",
+    "date": "2026-11-10T17:30:00+00:00",
+    "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+    "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-10T17:04:19+00:00",
+    "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "category": "其他"
+  },
+  {
+    "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+    "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-10T15:54:08+00:00",
+    "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+    "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-10T15:29:30+00:00",
+    "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+    "category": "AI 工具"
+  },
+  {
+    "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+    "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-10T14:05:10+00:00",
+    "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+    "category": "AI 工具"
+  },
+  {
+    "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+    "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-10T14:01:39+00:00",
+    "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+    "category": "產業趨勢"
+  },
+  {
+    "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+    "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-10T14:00:00+00:00",
+    "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+    "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-10T14:00:00+00:00",
+    "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+    "category": "其他"
+  },
+  {
+    "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+    "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+    "source": "Google AI Blog",
+    "date": "2026-11-10T14:00:00+00:00",
+    "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+    "summary": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-10T13:30:00+00:00",
+    "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+    "category": "其他"
+  },
+  {
+    "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California ",
+    "source": "MIT Technology Review",
+    "date": "2026-11-10T13:10:00+00:00",
+    "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+    "category": "其他"
+  },
+  {
+    "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
+    "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open source communities valuable to developer",
+    "source": "TechCrunch AI",
+    "date": "2026-11-10T13:00:00+00:00",
+    "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+    "category": "其他"
+  },
+  {
+    "title": "Google Cloud launches Gemini for healthcare.",
+    "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+    "source": "Google AI Blog",
+    "date": "2026-11-10T13:00:00+00:00",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Evolving metal extraction processes",
+    "summary": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century,",
+    "source": "MIT Technology Review",
+    "date": "2026-11-10T13:00:00+00:00",
+    "url": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
+    "category": "產業趨勢"
+  },
+  {
+    "title": "Otter AI can now follow conversations across 30+ languages",
+    "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-10T07:00:00+00:00",
+    "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+    "category": "其他"
+  },
+  {
     "title": "Anthropic reportedly plans to move forward with IPO plans",
     "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
     "source": "TechCrunch AI",
@@ -326,157 +478,5 @@
     "date": "2026-11-05T17:00:00+00:00",
     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
     "category": "模型更新"
-  },
-  {
-    "title": "Axiom Math wants to keep AI slop out of mathematics",
-    "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-05T16:16:45+00:00",
-    "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-    "category": "其他"
-  },
-  {
-    "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-    "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-05T15:19:05+00:00",
-    "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-    "category": "模型更新"
-  },
-  {
-    "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-    "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-05T14:42:00+00:00",
-    "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-    "category": "其他"
-  },
-  {
-    "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
-    "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-05T14:00:00+00:00",
-    "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
-    "category": "其他"
-  },
-  {
-    "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. T",
-    "source": "MIT Technology Review",
-    "date": "2026-11-05T13:10:00+00:00",
-    "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
-    "category": "產業趨勢"
-  },
-  {
-    "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
-    "summary": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-05T13:00:00+00:00",
-    "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
-    "category": "模型更新"
-  },
-  {
-    "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-    "summary": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-05T12:00:00+00:00",
-    "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
-    "category": "產業趨勢"
-  },
-  {
-    "title": "A new bill could change how the US builds energy infrastructure",
-    "summary": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the Bipa",
-    "source": "MIT Technology Review",
-    "date": "2026-11-05T10:00:00+00:00",
-    "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
-    "category": "其他"
-  },
-  {
-    "title": "Apple is reportedly cutting budgets for its internal AI usage",
-    "summary": "The tokenmaxxing frenzy has been short-lived as bills for said tokens came due, and companies decided that token rationing might be a more fiscally sensible approach.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-05T01:26:22+00:00",
-    "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-    "category": "AI 工具"
-  },
-  {
-    "title": "After the midterms, a bigger clash over data centers could be coming",
-    "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-05T01:02:14+00:00",
-    "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-    "category": "其他"
-  },
-  {
-    "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-    "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-04T22:45:09+00:00",
-    "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-    "category": "產業趨勢"
-  },
-  {
-    "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-    "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-04T22:13:16+00:00",
-    "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-    "category": "產業趨勢"
-  },
-  {
-    "title": "Almost no one uses AI agents to book their Uber, company says",
-    "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-04T21:56:01+00:00",
-    "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-    "category": "產業趨勢"
-  },
-  {
-    "title": "OpenAI is already trying to shape the 2028 election",
-    "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-04T21:25:44+00:00",
-    "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-    "category": "模型更新"
-  },
-  {
-    "title": "Meta acquires AI coding startup Conductor",
-    "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-04T21:10:56+00:00",
-    "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-    "category": "其他"
-  },
-  {
-    "title": "Open source AI is booming. Hugging Face explains who profits.",
-    "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely",
-    "source": "TechCrunch AI",
-    "date": "2026-11-04T19:30:04+00:00",
-    "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-    "category": "模型更新"
-  },
-  {
-    "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-    "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won th",
-    "source": "MIT Technology Review",
-    "date": "2026-11-04T18:50:55+00:00",
-    "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-    "category": "產業趨勢"
-  },
-  {
-    "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-    "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and",
-    "source": "MIT Technology Review",
-    "date": "2026-11-04T18:21:40+00:00",
-    "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
-    "category": "其他"
-  },
-  {
-    "title": "What’s next for US energy policy after the midterm elections?",
-    "summary": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the beginning of the blue wave: Democrats took control of both the US House of ",
-    "source": "MIT Technology Review",
-    "date": "2026-11-04T17:08:00+00:00",
-    "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
-    "category": "產業趨勢"
   }
 ]
