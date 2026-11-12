@@ -1,5 +1,141 @@
 [
   {
+    "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+    "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-12T19:27:45+00:00",
+    "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+    "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-12T19:11:00+00:00",
+    "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+    "category": "產業趨勢"
+  },
+  {
+    "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+    "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadershi",
+    "source": "TechCrunch AI",
+    "date": "2026-11-12T18:39:23+00:00",
+    "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+    "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+    "source": "Google AI Blog",
+    "date": "2026-11-12T18:00:00+00:00",
+    "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+    "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-12T17:36:40+00:00",
+    "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+    "category": "其他"
+  },
+  {
+    "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+    "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-12T17:17:58+00:00",
+    "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+    "category": "其他"
+  },
+  {
+    "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+    "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-12T17:00:52+00:00",
+    "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+    "category": "產業趨勢"
+  },
+  {
+    "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+    "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-12T17:00:00+00:00",
+    "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+    "category": "AI 工具"
+  },
+  {
+    "title": "Jensen Huang agrees to testify before Congress",
+    "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-12T16:36:37+00:00",
+    "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+    "category": "其他"
+  },
+  {
+    "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+    "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-12T16:32:33+00:00",
+    "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+    "category": "產業趨勢"
+  },
+  {
+    "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+    "summary": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-12T16:12:44+00:00",
+    "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+    "category": "AI 工具"
+  },
+  {
+    "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+    "summary": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-12T15:37:29+00:00",
+    "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+    "category": "其他"
+  },
+  {
+    "title": "Norwest pushes deeper into AI with new $4B fund",
+    "summary": "This is the investment firm's largest fund to date.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-12T15:18:14+00:00",
+    "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+    "category": "產業趨勢"
+  },
+  {
+    "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+    "summary": "This is Fireworks' second data breach in as many months.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-12T15:02:28+00:00",
+    "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+    "category": "其他"
+  },
+  {
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-12T14:30:01+00:00",
+    "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "category": "其他"
+  },
+  {
+    "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+    "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-12T13:26:25+00:00",
+    "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+    "category": "其他"
+  },
+  {
+    "title": "The Download: COP31’s climate challenge and the quest for immortality",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists,",
+    "source": "MIT Technology Review",
+    "date": "2026-11-12T13:10:00+00:00",
+    "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
+    "category": "其他"
+  },
+  {
     "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
     "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
     "source": "TechCrunch AI",
@@ -341,142 +477,6 @@
     "source": "TechCrunch AI",
     "date": "2026-11-10T01:27:12+00:00",
     "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-    "category": "產業趨勢"
-  },
-  {
-    "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
-    "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-09T23:28:37+00:00",
-    "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
-    "category": "其他"
-  },
-  {
-    "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-    "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-09T22:46:09+00:00",
-    "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-    "category": "其他"
-  },
-  {
-    "title": "The race is on to sue Nvidia",
-    "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all ",
-    "source": "TechCrunch AI",
-    "date": "2026-11-09T22:23:42+00:00",
-    "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-    "category": "產業趨勢"
-  },
-  {
-    "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-    "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-09T20:09:06+00:00",
-    "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-    "category": "其他"
-  },
-  {
-    "title": "The backlash about data centers might really just be about electricity",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, p",
-    "source": "MIT Technology Review",
-    "date": "2026-11-09T19:35:33+00:00",
-    "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-    "category": "AI 工具"
-  },
-  {
-    "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-    "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-09T19:24:51+00:00",
-    "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-    "category": "模型更新"
-  },
-  {
-    "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-    "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-09T18:09:52+00:00",
-    "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-    "category": "產業趨勢"
-  },
-  {
-    "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-    "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-09T18:00:00+00:00",
-    "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-    "category": "模型更新"
-  },
-  {
-    "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-    "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco ",
-    "source": "MIT Technology Review",
-    "date": "2026-11-09T17:05:43+00:00",
-    "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-    "category": "其他"
-  },
-  {
-    "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-    "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-09T16:56:54+00:00",
-    "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-    "category": "其他"
-  },
-  {
-    "title": "Medium’s new TK app brings AI assistance directly into the writing process",
-    "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-09T16:12:28+00:00",
-    "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
-    "category": "AI 工具"
-  },
-  {
-    "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
-    "summary": "Automattic aims to compete with the likes of Lovable with Spacefast.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-09T14:00:00+00:00",
-    "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
-    "category": "AI 工具"
-  },
-  {
-    "title": "The Download: empty AI climate claims, and an Nvidia investigation",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The climate case for AI has not been made —By Mary Nichols, distinguished",
-    "source": "MIT Technology Review",
-    "date": "2026-11-09T13:15:00+00:00",
-    "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
-    "category": "其他"
-  },
-  {
-    "title": "Innovating with AI in the special chemicals industry",
-    "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practi",
-    "source": "MIT Technology Review",
-    "date": "2026-11-09T13:00:00+00:00",
-    "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-    "category": "模型更新"
-  },
-  {
-    "title": "The climate case for AI has not been made",
-    "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to e",
-    "source": "MIT Technology Review",
-    "date": "2026-11-09T10:00:00+00:00",
-    "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
-    "category": "其他"
-  },
-  {
-    "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s ‘about a 50-50’",
-    "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-09T05:26:29+00:00",
-    "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
-    "category": "其他"
-  },
-  {
-    "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-    "summary": "In a memo to the company, Huang admitted that he had an affair.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-08T21:00:11+00:00",
-    "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
     "category": "產業趨勢"
   }
 ]
