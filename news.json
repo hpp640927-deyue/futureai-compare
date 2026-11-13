@@ -1,5 +1,53 @@
 [
   {
+    "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+    "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-12T22:42:51+00:00",
+    "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+    "category": "其他"
+  },
+  {
+    "title": "Muse can now place calls to US businesses — if you pay",
+    "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-12T22:22:28+00:00",
+    "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+    "category": "其他"
+  },
+  {
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-12T21:35:00+00:00",
+    "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "category": "其他"
+  },
+  {
+    "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+    "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-12T21:27:10+00:00",
+    "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Jensen Huang was having a third affair, Reuters reports",
+    "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-12T20:26:47+00:00",
+    "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+    "category": "其他"
+  },
+  {
+    "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+    "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review i",
+    "source": "MIT Technology Review",
+    "date": "2026-11-12T20:16:24+00:00",
+    "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+    "category": "產業趨勢"
+  },
+  {
     "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
     "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
     "source": "TechCrunch AI",
@@ -109,14 +157,6 @@
     "source": "TechCrunch AI",
     "date": "2026-11-12T15:02:28+00:00",
     "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
-    "category": "其他"
-  },
-  {
-    "title": "The unfolding Jensen Huang scandal: a timeline",
-    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-12T14:30:01+00:00",
-    "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
     "category": "其他"
   },
   {
@@ -438,45 +478,5 @@
     "date": "2026-11-10T13:10:00+00:00",
     "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
     "category": "其他"
-  },
-  {
-    "title": "Google Cloud launches Gemini for healthcare.",
-    "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-    "source": "Google AI Blog",
-    "date": "2026-11-10T13:00:00+00:00",
-    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-    "category": "模型更新"
-  },
-  {
-    "title": "Evolving metal extraction processes",
-    "summary": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century,",
-    "source": "MIT Technology Review",
-    "date": "2026-11-10T13:00:00+00:00",
-    "url": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
-    "category": "產業趨勢"
-  },
-  {
-    "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
-    "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open source communities valuable to developer",
-    "source": "TechCrunch AI",
-    "date": "2026-11-10T13:00:00+00:00",
-    "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
-    "category": "其他"
-  },
-  {
-    "title": "Otter AI can now follow conversations across 30+ languages",
-    "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-10T07:00:00+00:00",
-    "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
-    "category": "其他"
-  },
-  {
-    "title": "Anthropic reportedly plans to move forward with IPO plans",
-    "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-10T01:27:12+00:00",
-    "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-    "category": "產業趨勢"
   }
 ]
