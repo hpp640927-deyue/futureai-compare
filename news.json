@@ -1,6 +1,22 @@
 [
   {
-    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-13T22:43:00+00:00",
+    "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "category": "其他"
+  },
+  {
+    "title": "AI agent startup LangChain hits $3B valuation",
+    "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-13T19:37:57+00:00",
+    "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
     "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
     "source": "TechCrunch AI",
     "date": "2026-11-13T18:40:30+00:00",
@@ -462,21 +478,5 @@
     "date": "2026-11-10T18:49:52+00:00",
     "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
     "category": "模型更新"
-  },
-  {
-    "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-    "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figur",
-    "source": "TechCrunch AI",
-    "date": "2026-11-10T17:30:00+00:00",
-    "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-    "category": "模型更新"
-  },
-  {
-    "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
-    "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-10T17:04:19+00:00",
-    "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "category": "其他"
   }
 ]
