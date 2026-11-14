@@ -1,5 +1,21 @@
 [
   {
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-14T17:30:00+00:00",
+    "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+    "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-14T16:34:15+00:00",
+    "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+    "category": "其他"
+  },
+  {
     "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
     "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
     "source": "TechCrunch AI",
@@ -461,22 +477,6 @@
     "source": "TechCrunch AI",
     "date": "2026-11-10T19:03:52+00:00",
     "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-    "category": "模型更新"
-  },
-  {
-    "title": "Gemini Intelligence: New features, on more devices",
-    "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
-    "source": "Google AI Blog",
-    "date": "2026-11-10T19:00:00+00:00",
-    "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-    "category": "模型更新"
-  },
-  {
-    "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-    "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-10T18:49:52+00:00",
-    "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
     "category": "模型更新"
   }
 ]
