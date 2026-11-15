@@ -1,5 +1,21 @@
 [
   {
+    "title": "Where was Nvidia’s security team?",
+    "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intellig",
+    "source": "TechCrunch AI",
+    "date": "2026-11-15T00:08:07+00:00",
+    "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+    "category": "產業趨勢"
+  },
+  {
+    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+    "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-14T21:41:22+00:00",
+    "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+    "category": "其他"
+  },
+  {
     "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
     "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
     "source": "TechCrunch AI",
@@ -462,21 +478,5 @@
     "date": "2026-11-10T19:57:52+00:00",
     "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
     "category": "其他"
-  },
-  {
-    "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-    "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
-    "source": "TechCrunch AI",
-    "date": "2026-11-10T19:23:34+00:00",
-    "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
-    "category": "產業趨勢"
-  },
-  {
-    "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-    "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-10T19:03:52+00:00",
-    "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-    "category": "模型更新"
   }
 ]
