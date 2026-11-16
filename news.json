@@ -1,5 +1,37 @@
 [
   {
+    "title": "Apple launches new app to study how people use AI for health",
+    "summary": "Apple's new app for a study will answer everyday medical questions",
+    "source": "TechCrunch AI",
+    "date": "2026-11-16T01:30:00+00:00",
+    "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+    "category": "AI 工具"
+  },
+  {
+    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+    "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-15T23:30:00+00:00",
+    "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+    "category": "產業趨勢"
+  },
+  {
+    "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+    "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+    "source": "TechCrunch AI",
+    "date": "2026-11-15T21:56:35+00:00",
+    "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+    "category": "產業趨勢"
+  },
+  {
+    "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+    "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-15T20:20:57+00:00",
+    "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+    "category": "其他"
+  },
+  {
     "title": "Where was Nvidia’s security team?",
     "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intellig",
     "source": "TechCrunch AI",
@@ -445,38 +477,6 @@
     "source": "Google AI Blog",
     "date": "2026-11-11T09:00:00+00:00",
     "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
-    "category": "其他"
-  },
-  {
-    "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
-    "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-11T07:30:51+00:00",
-    "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
-    "category": "其他"
-  },
-  {
-    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-    "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-10T21:08:52+00:00",
-    "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-    "category": "模型更新"
-  },
-  {
-    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-    "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-10T20:52:13+00:00",
-    "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-    "category": "模型更新"
-  },
-  {
-    "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-    "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of",
-    "source": "TechCrunch AI",
-    "date": "2026-11-10T19:57:52+00:00",
-    "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
     "category": "其他"
   }
 ]
