@@ -1,7 +1,135 @@
 [
   {
+    "title": "California state AG sues OpenAI over rogue agent incidents",
+    "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
+    "source": "TechCrunch AI",
+    "date": "2026-11-16T20:07:13+00:00",
+    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+    "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-16T19:12:02+00:00",
+    "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+    "category": "其他"
+  },
+  {
+    "title": "The open-source movement wants Jensen Huang back",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating",
+    "source": "MIT Technology Review",
+    "date": "2026-11-16T18:38:47+00:00",
+    "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+    "category": "AI 工具"
+  },
+  {
+    "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+    "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-16T18:11:10+00:00",
+    "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+    "category": "模型更新"
+  },
+  {
+    "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+    "summary": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-16T17:36:43+00:00",
+    "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+    "category": "AI 工具"
+  },
+  {
+    "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+    "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-16T17:10:00+00:00",
+    "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+    "category": "其他"
+  },
+  {
+    "title": "OpenAI will embed safety researchers to investigate AI subversion",
+    "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-16T17:02:43+00:00",
+    "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+    "category": "模型更新"
+  },
+  {
+    "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+    "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-16T17:00:00+00:00",
+    "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Building trustworthy AI by fencing it in, not predicting it",
+    "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed",
+    "source": "MIT Technology Review",
+    "date": "2026-11-16T16:04:28+00:00",
+    "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Audible turns to AI to help users discover audiobooks",
+    "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-16T15:52:19+00:00",
+    "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+    "category": "其他"
+  },
+  {
+    "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+    "summary": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-16T15:02:34+00:00",
+    "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+    "category": "其他"
+  },
+  {
+    "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+    "summary": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-16T14:48:13+00:00",
+    "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+    "category": "其他"
+  },
+  {
+    "title": "New Ask Maps features to help with holiday travel and prep",
+    "summary": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
+    "source": "Google AI Blog",
+    "date": "2026-11-16T14:00:00+00:00",
+    "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+    "category": "AI 工具"
+  },
+  {
+    "title": "The Download: testing tech promises and searching for cognitive immortality",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you me",
+    "source": "MIT Technology Review",
+    "date": "2026-11-16T13:10:00+00:00",
+    "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
+    "category": "其他"
+  },
+  {
+    "title": "Building AI that can work across the enterprise",
+    "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving fro",
+    "source": "MIT Technology Review",
+    "date": "2026-11-16T13:00:00+00:00",
+    "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+    "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-16T12:30:00+00:00",
+    "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+    "category": "其他"
+  },
+  {
     "title": "Apple launches new app to study how people use AI for health",
-    "summary": "Apple's new app for a study will answer everyday medical questions",
+    "summary": "Apple's new app for a study will answer everyday medical questions.",
     "source": "TechCrunch AI",
     "date": "2026-11-16T01:30:00+00:00",
     "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
@@ -9,7 +137,7 @@
   },
   {
     "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-    "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+    "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies, including General Atomics.",
     "source": "TechCrunch AI",
     "date": "2026-11-15T23:30:00+00:00",
     "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
@@ -24,7 +152,7 @@
     "category": "產業趨勢"
   },
   {
-    "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+    "title": "‘SNL’ gathers all the tech tycoons for a lesson in dating and spycraft",
     "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
     "source": "TechCrunch AI",
     "date": "2026-11-15T20:20:57+00:00",
@@ -349,134 +477,6 @@
     "source": "TechCrunch AI",
     "date": "2026-11-11T23:28:45+00:00",
     "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-    "category": "其他"
-  },
-  {
-    "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-    "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-11T23:17:05+00:00",
-    "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-    "category": "其他"
-  },
-  {
-    "title": "Why the data center you dread might never even be built",
-    "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more",
-    "source": "TechCrunch AI",
-    "date": "2026-11-11T20:15:15+00:00",
-    "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
-    "category": "其他"
-  },
-  {
-    "title": "Meta is losing its longtime head of infrastructure",
-    "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-11T20:12:01+00:00",
-    "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
-    "category": "產業趨勢"
-  },
-  {
-    "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
-    "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more",
-    "source": "TechCrunch AI",
-    "date": "2026-11-11T20:02:14+00:00",
-    "url": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
-    "category": "其他"
-  },
-  {
-    "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-    "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-11T19:54:00+00:00",
-    "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
-    "category": "產業趨勢"
-  },
-  {
-    "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
-    "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-11T19:34:55+00:00",
-    "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
-    "category": "其他"
-  },
-  {
-    "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
-    "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-11T19:22:22+00:00",
-    "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
-    "category": "其他"
-  },
-  {
-    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-    "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
-    "source": "Google AI Blog",
-    "date": "2026-11-11T18:00:00+00:00",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-    "category": "模型更新"
-  },
-  {
-    "title": "What to know about this year’s UN climate talks",
-    "summary": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking",
-    "source": "MIT Technology Review",
-    "date": "2026-11-11T17:00:00+00:00",
-    "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
-    "category": "其他"
-  },
-  {
-    "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
-    "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-11T16:16:07+00:00",
-    "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
-    "category": "AI 工具"
-  },
-  {
-    "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
-    "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-11T16:14:44+00:00",
-    "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-    "category": "模型更新"
-  },
-  {
-    "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-    "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
-    "source": "Google AI Blog",
-    "date": "2026-11-11T16:00:00+00:00",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-    "category": "其他"
-  },
-  {
-    "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
-    "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' new",
-    "source": "TechCrunch AI",
-    "date": "2026-11-11T15:00:00+00:00",
-    "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
-    "category": "其他"
-  },
-  {
-    "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
-    "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-11T14:00:00+00:00",
-    "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
-    "category": "模型更新"
-  },
-  {
-    "title": "The Download: preserving minds and weighing open AI risks",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve ",
-    "source": "MIT Technology Review",
-    "date": "2026-11-11T13:10:00+00:00",
-    "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
-    "category": "其他"
-  },
-  {
-    "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-    "summary": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
-    "source": "Google AI Blog",
-    "date": "2026-11-11T09:00:00+00:00",
-    "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
     "category": "其他"
   }
 ]
