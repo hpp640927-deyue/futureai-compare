@@ -1,7 +1,23 @@
 [
   {
+    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+    "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-16T23:32:32+00:00",
+    "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+    "category": "其他"
+  },
+  {
+    "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+    "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number o",
+    "source": "TechCrunch AI",
+    "date": "2026-11-16T22:03:02+00:00",
+    "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+    "category": "產業趨勢"
+  },
+  {
     "title": "California state AG sues OpenAI over rogue agent incidents",
-    "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
+    "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
     "source": "TechCrunch AI",
     "date": "2026-11-16T20:07:13+00:00",
     "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
@@ -24,7 +40,7 @@
     "category": "AI 工具"
   },
   {
-    "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+    "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
     "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
     "source": "TechCrunch AI",
     "date": "2026-11-16T18:11:10+00:00",
@@ -32,8 +48,8 @@
     "category": "模型更新"
   },
   {
-    "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
-    "summary": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+    "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+    "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
     "source": "TechCrunch AI",
     "date": "2026-11-16T17:36:43+00:00",
     "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
@@ -461,22 +477,6 @@
     "source": "TechCrunch AI",
     "date": "2026-11-12T03:13:10+00:00",
     "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
-    "category": "其他"
-  },
-  {
-    "title": "The unfolding Jensen Huang scandal: a timeline",
-    "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-11T23:50:00+00:00",
-    "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "category": "其他"
-  },
-  {
-    "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-    "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-11T23:28:45+00:00",
-    "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
     "category": "其他"
   }
 ]
