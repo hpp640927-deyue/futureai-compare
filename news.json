@@ -1,5 +1,157 @@
 [
   {
+    "title": "Model ML raises $250M to automate investment banking grunt work",
+    "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-17T19:32:11+00:00",
+    "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+    "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-17T19:02:20+00:00",
+    "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+    "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-17T18:48:23+00:00",
+    "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+    "summary": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Science editor Mary Beth Grigg",
+    "source": "MIT Technology Review",
+    "date": "2026-11-17T18:46:47+00:00",
+    "url": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+    "category": "其他"
+  },
+  {
+    "title": "As decision model use skyrockets, is customization the next frontier?",
+    "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-17T18:10:00+00:00",
+    "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+    "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-17T18:04:16+00:00",
+    "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+    "category": "產業趨勢"
+  },
+  {
+    "title": "Hydropower hit record lows in the US Southwest this summer",
+    "summary": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower plants in the US rely",
+    "source": "MIT Technology Review",
+    "date": "2026-11-17T17:52:10+00:00",
+    "url": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
+    "category": "其他"
+  },
+  {
+    "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+    "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-17T17:32:25+00:00",
+    "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+    "category": "模型更新"
+  },
+  {
+    "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+    "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-17T17:20:41+00:00",
+    "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Put Gemini to work for you",
+    "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
+    "source": "Google AI Blog",
+    "date": "2026-11-17T17:00:00+00:00",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+    "summary": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-17T16:44:15+00:00",
+    "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+    "category": "其他"
+  },
+  {
+    "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+    "summary": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-17T16:32:55+00:00",
+    "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+    "category": "其他"
+  },
+  {
+    "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+    "summary": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-17T15:00:00+00:00",
+    "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+    "category": "AI 工具"
+  },
+  {
+    "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+    "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-17T14:50:58+00:00",
+    "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+    "category": "其他"
+  },
+  {
+    "title": "Research Reports",
+    "summary": "To access a report, click on the corresponding image below.",
+    "source": "MIT Technology Review",
+    "date": "2026-11-17T14:39:46+00:00",
+    "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+    "category": "其他"
+  },
+  {
+    "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+    "summary": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-17T14:26:46+00:00",
+    "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
+    "category": "其他"
+  },
+  {
+    "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+    "summary": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-17T14:05:30+00:00",
+    "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+    "category": "產業趨勢"
+  },
+  {
+    "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
+    "summary": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-17T14:00:00+00:00",
+    "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
+    "category": "AI 工具"
+  },
+  {
+    "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Hu",
+    "source": "MIT Technology Review",
+    "date": "2026-11-17T13:10:00+00:00",
+    "url": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
+    "category": "其他"
+  },
+  {
     "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
     "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
     "source": "TechCrunch AI",
@@ -326,157 +478,5 @@
     "date": "2026-11-12T21:27:10+00:00",
     "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
     "category": "模型更新"
-  },
-  {
-    "title": "Jensen Huang was having a third affair, Reuters reports",
-    "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-12T20:26:47+00:00",
-    "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
-    "category": "其他"
-  },
-  {
-    "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-    "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review i",
-    "source": "MIT Technology Review",
-    "date": "2026-11-12T20:16:24+00:00",
-    "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
-    "category": "產業趨勢"
-  },
-  {
-    "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-    "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-12T19:27:45+00:00",
-    "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-    "category": "模型更新"
-  },
-  {
-    "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-    "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-12T19:11:00+00:00",
-    "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-    "category": "產業趨勢"
-  },
-  {
-    "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-    "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadershi",
-    "source": "TechCrunch AI",
-    "date": "2026-11-12T18:39:23+00:00",
-    "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-    "category": "模型更新"
-  },
-  {
-    "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-    "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
-    "source": "Google AI Blog",
-    "date": "2026-11-12T18:00:00+00:00",
-    "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-    "category": "模型更新"
-  },
-  {
-    "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-    "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-12T17:36:40+00:00",
-    "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-    "category": "其他"
-  },
-  {
-    "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-    "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-12T17:17:58+00:00",
-    "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-    "category": "其他"
-  },
-  {
-    "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
-    "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-12T17:00:52+00:00",
-    "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-    "category": "產業趨勢"
-  },
-  {
-    "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
-    "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-12T17:00:00+00:00",
-    "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
-    "category": "AI 工具"
-  },
-  {
-    "title": "Jensen Huang agrees to testify before Congress",
-    "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-12T16:36:37+00:00",
-    "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
-    "category": "其他"
-  },
-  {
-    "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-    "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-12T16:32:33+00:00",
-    "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
-    "category": "產業趨勢"
-  },
-  {
-    "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
-    "summary": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-12T16:12:44+00:00",
-    "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
-    "category": "AI 工具"
-  },
-  {
-    "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
-    "summary": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-12T15:37:29+00:00",
-    "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
-    "category": "其他"
-  },
-  {
-    "title": "Norwest pushes deeper into AI with new $4B fund",
-    "summary": "This is the investment firm's largest fund to date.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-12T15:18:14+00:00",
-    "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
-    "category": "產業趨勢"
-  },
-  {
-    "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
-    "summary": "This is Fireworks' second data breach in as many months.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-12T15:02:28+00:00",
-    "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
-    "category": "其他"
-  },
-  {
-    "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
-    "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-12T13:26:25+00:00",
-    "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
-    "category": "其他"
-  },
-  {
-    "title": "The Download: COP31’s climate challenge and the quest for immortality",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists,",
-    "source": "MIT Technology Review",
-    "date": "2026-11-12T13:10:00+00:00",
-    "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
-    "category": "其他"
-  },
-  {
-    "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-    "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-12T03:13:10+00:00",
-    "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
-    "category": "其他"
   }
 ]
