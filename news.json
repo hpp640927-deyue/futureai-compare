@@ -1,5 +1,109 @@
 [
   {
+    "title": "Sam Altman says his life is so weird that he’s unphased by Andrew Garfield portraying him in upcoming movie",
+    "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-18T20:07:01+00:00",
+    "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+    "category": "其他"
+  },
+  {
+    "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+    "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-18T19:56:39+00:00",
+    "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Google’s AI feature in Search gets its own incognito mode",
+    "summary": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-18T18:04:05+00:00",
+    "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+    "category": "其他"
+  },
+  {
+    "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+    "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-18T17:32:10+00:00",
+    "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+    "category": "其他"
+  },
+  {
+    "title": "The Gemini app is now available on lower-memory Android devices.",
+    "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+    "source": "Google AI Blog",
+    "date": "2026-11-18T17:00:00+00:00",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+    "summary": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-18T16:59:00+00:00",
+    "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+    "category": "模型更新"
+  },
+  {
+    "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+    "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-18T16:14:09+00:00",
+    "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+    "category": "模型更新"
+  },
+  {
+    "title": "The AI Hype Index: AI is everywhere",
+    "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people he",
+    "source": "MIT Technology Review",
+    "date": "2026-11-18T14:42:44+00:00",
+    "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+    "category": "產業趨勢"
+  },
+  {
+    "title": "The Download: AI learns to smell and hydropower struggles",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, r",
+    "source": "MIT Technology Review",
+    "date": "2026-11-18T13:10:00+00:00",
+    "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
+    "category": "其他"
+  },
+  {
+    "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
+    "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-18T13:00:00+00:00",
+    "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+    "category": "其他"
+  },
+  {
+    "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+    "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-18T12:00:00+00:00",
+    "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+    "category": "產業趨勢"
+  },
+  {
+    "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
+    "summary": "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-18T11:30:00+00:00",
+    "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+    "category": "其他"
+  },
+  {
+    "title": "This smell startup says its AI nose is as good as a human’s",
+    "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced wi",
+    "source": "MIT Technology Review",
+    "date": "2026-11-18T10:20:30+00:00",
+    "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+    "category": "其他"
+  },
+  {
     "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
     "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
     "source": "TechCrunch AI",
@@ -374,109 +478,5 @@
     "date": "2026-11-15T23:30:00+00:00",
     "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
     "category": "產業趨勢"
-  },
-  {
-    "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-    "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
-    "source": "TechCrunch AI",
-    "date": "2026-11-15T21:56:35+00:00",
-    "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-    "category": "產業趨勢"
-  },
-  {
-    "title": "‘SNL’ gathers all the tech tycoons for a lesson in dating and spycraft",
-    "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-15T20:20:57+00:00",
-    "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
-    "category": "其他"
-  },
-  {
-    "title": "Where was Nvidia’s security team?",
-    "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intellig",
-    "source": "TechCrunch AI",
-    "date": "2026-11-15T00:08:07+00:00",
-    "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-    "category": "產業趨勢"
-  },
-  {
-    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-    "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-14T21:41:22+00:00",
-    "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-    "category": "其他"
-  },
-  {
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-14T17:30:00+00:00",
-    "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "category": "模型更新"
-  },
-  {
-    "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-    "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-14T16:34:15+00:00",
-    "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-    "category": "其他"
-  },
-  {
-    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-    "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-13T22:43:00+00:00",
-    "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-    "category": "其他"
-  },
-  {
-    "title": "AI agent startup LangChain hits $3B valuation",
-    "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-13T19:37:57+00:00",
-    "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-    "category": "模型更新"
-  },
-  {
-    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-    "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-13T18:40:30+00:00",
-    "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-    "category": "模型更新"
-  },
-  {
-    "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-    "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-13T16:00:12+00:00",
-    "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-    "category": "模型更新"
-  },
-  {
-    "title": "The unfolding Jensen Huang scandal: a timeline",
-    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-13T15:58:00+00:00",
-    "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "category": "其他"
-  },
-  {
-    "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
-    "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-13T14:44:48+00:00",
-    "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
-    "category": "AI 工具"
-  },
-  {
-    "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
-    "source": "MIT Technology Review",
-    "date": "2026-11-13T13:10:00+00:00",
-    "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
-    "category": "其他"
   }
 ]
