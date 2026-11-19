@@ -1,5 +1,85 @@
 [
   {
+    "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+    "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short an",
+    "source": "TechCrunch AI",
+    "date": "2026-11-19T00:42:56+00:00",
+    "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+    "category": "其他"
+  },
+  {
+    "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+    "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-18T23:45:00+00:00",
+    "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+    "category": "其他"
+  },
+  {
+    "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+    "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-18T23:25:17+00:00",
+    "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+    "category": "其他"
+  },
+  {
+    "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+    "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-18T23:17:28+00:00",
+    "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+    "category": "其他"
+  },
+  {
+    "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+    "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-18T22:58:11+00:00",
+    "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Anthropic prices IPO at $83 a share, above projected range",
+    "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-18T22:11:15+00:00",
+    "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+    "category": "產業趨勢"
+  },
+  {
+    "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+    "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-18T21:57:40+00:00",
+    "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
+    "category": "其他"
+  },
+  {
+    "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+    "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-18T21:34:13+00:00",
+    "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+    "category": "其他"
+  },
+  {
+    "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+    "summary": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-18T21:31:21+00:00",
+    "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+    "category": "其他"
+  },
+  {
+    "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
+    "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-18T20:07:01+00:00",
+    "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+    "category": "其他"
+  },
+  {
     "title": "Sam Altman says his life is so weird that he’s unphased by Andrew Garfield portraying him in upcoming movie",
     "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
     "source": "TechCrunch AI",
@@ -398,85 +478,5 @@
     "date": "2026-11-16T17:00:00+00:00",
     "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
     "category": "模型更新"
-  },
-  {
-    "title": "Building trustworthy AI by fencing it in, not predicting it",
-    "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed",
-    "source": "MIT Technology Review",
-    "date": "2026-11-16T16:04:28+00:00",
-    "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-    "category": "模型更新"
-  },
-  {
-    "title": "Audible turns to AI to help users discover audiobooks",
-    "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-16T15:52:19+00:00",
-    "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
-    "category": "其他"
-  },
-  {
-    "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
-    "summary": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-16T15:02:34+00:00",
-    "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
-    "category": "其他"
-  },
-  {
-    "title": "Google Maps can now build trip itineraries with real-time details about each stop",
-    "summary": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-16T14:48:13+00:00",
-    "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
-    "category": "其他"
-  },
-  {
-    "title": "New Ask Maps features to help with holiday travel and prep",
-    "summary": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
-    "source": "Google AI Blog",
-    "date": "2026-11-16T14:00:00+00:00",
-    "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
-    "category": "AI 工具"
-  },
-  {
-    "title": "The Download: testing tech promises and searching for cognitive immortality",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you me",
-    "source": "MIT Technology Review",
-    "date": "2026-11-16T13:10:00+00:00",
-    "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
-    "category": "其他"
-  },
-  {
-    "title": "Building AI that can work across the enterprise",
-    "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving fro",
-    "source": "MIT Technology Review",
-    "date": "2026-11-16T13:00:00+00:00",
-    "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
-    "category": "模型更新"
-  },
-  {
-    "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
-    "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-16T12:30:00+00:00",
-    "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
-    "category": "其他"
-  },
-  {
-    "title": "Apple launches new app to study how people use AI for health",
-    "summary": "Apple's new app for a study will answer everyday medical questions.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-16T01:30:00+00:00",
-    "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-    "category": "AI 工具"
-  },
-  {
-    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-    "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies, including General Atomics.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-15T23:30:00+00:00",
-    "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-    "category": "產業趨勢"
   }
 ]
