@@ -1,6 +1,46 @@
 [
   {
-    "title": "Anthropic’s IPO could deliver $156 billion to charity",
+    "title": "Apple may be developing its own AI agent that runs your Mac",
+    "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-20T00:56:01+00:00",
+    "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+    "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-20T00:43:50+00:00",
+    "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+    "category": "產業趨勢"
+  },
+  {
+    "title": "Meta’s new Muse Charm device may cost $300",
+    "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-19T21:58:06+00:00",
+    "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+    "category": "其他"
+  },
+  {
+    "title": "These tech outages are giving Y2K, AI agent style",
+    "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-19T21:42:31+00:00",
+    "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+    "category": "其他"
+  },
+  {
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-19T20:18:49+00:00",
+    "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "category": "其他"
+  },
+  {
+    "title": "Anthropic’s IPO could deliver $156B to charity",
     "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
     "source": "TechCrunch AI",
     "date": "2026-11-19T19:10:45+00:00",
@@ -437,46 +477,6 @@
     "source": "TechCrunch AI",
     "date": "2026-11-17T16:44:15+00:00",
     "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
-    "category": "其他"
-  },
-  {
-    "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
-    "summary": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-17T16:32:55+00:00",
-    "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
-    "category": "其他"
-  },
-  {
-    "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
-    "summary": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-17T15:00:00+00:00",
-    "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
-    "category": "AI 工具"
-  },
-  {
-    "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
-    "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-17T14:50:58+00:00",
-    "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
-    "category": "其他"
-  },
-  {
-    "title": "Research Reports",
-    "summary": "To access a report, click on the corresponding image below.",
-    "source": "MIT Technology Review",
-    "date": "2026-11-17T14:39:46+00:00",
-    "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
-    "category": "其他"
-  },
-  {
-    "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
-    "summary": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-17T14:26:46+00:00",
-    "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
     "category": "其他"
   }
 ]
