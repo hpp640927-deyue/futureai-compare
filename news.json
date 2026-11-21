@@ -1,7 +1,15 @@
 [
   {
-    "title": "AI claimed a solution to the 167 year-old Riemann Hypothesis — and a human did, too",
-    "summary": "Mathematicians are having their minds blown by the latest AI-driven result—and there's a competing human solution, too.",
+    "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+    "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-20T19:53:41+00:00",
+    "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+    "category": "其他"
+  },
+  {
+    "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+    "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
     "source": "TechCrunch AI",
     "date": "2026-11-20T19:32:08+00:00",
     "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
@@ -470,13 +478,5 @@
     "date": "2026-11-17T18:46:47+00:00",
     "url": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
     "category": "其他"
-  },
-  {
-    "title": "As decision model use skyrockets, is customization the next frontier?",
-    "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-17T18:10:00+00:00",
-    "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
-    "category": "模型更新"
   }
 ]
