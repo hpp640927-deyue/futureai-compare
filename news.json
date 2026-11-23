@@ -1,5 +1,21 @@
 [
   {
+    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+    "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-23T01:25:53+00:00",
+    "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+    "category": "其他"
+  },
+  {
+    "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+    "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-22T21:14:07+00:00",
+    "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+    "category": "模型更新"
+  },
+  {
     "title": "Why data centers are at the center of the Big Tech backlash",
     "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
     "source": "TechCrunch AI",
@@ -168,19 +184,19 @@
     "category": "其他"
   },
   {
-    "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-    "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-19T17:00:00+00:00",
-    "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-    "category": "其他"
-  },
-  {
     "title": "Walter Isaacson on curiosity and creativity in the AI age.",
     "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
     "source": "Google AI Blog",
     "date": "2026-11-19T17:00:00+00:00",
     "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+    "category": "其他"
+  },
+  {
+    "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+    "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-19T17:00:00+00:00",
+    "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
     "category": "其他"
   },
   {
@@ -462,21 +478,5 @@
     "date": "2026-11-17T22:42:27+00:00",
     "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
     "category": "AI 工具"
-  },
-  {
-    "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
-    "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-17T22:29:05+00:00",
-    "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
-    "category": "其他"
-  },
-  {
-    "title": "SEC reportedly investigating Nvidia amid Huang exit",
-    "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-17T21:48:07+00:00",
-    "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
-    "category": "其他"
   }
 ]
