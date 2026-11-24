@@ -1,5 +1,125 @@
 [
   {
+    "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+    "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-24T21:48:27+00:00",
+    "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+    "category": "產業趨勢"
+  },
+  {
+    "title": "Even the best AI agents struggle with everyday life",
+    "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-24T21:33:29+00:00",
+    "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+    "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-24T21:32:38+00:00",
+    "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+    "category": "其他"
+  },
+  {
+    "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+    "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-24T21:19:52+00:00",
+    "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+    "category": "產業趨勢"
+  },
+  {
+    "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+    "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-24T18:30:42+00:00",
+    "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+    "category": "其他"
+  },
+  {
+    "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+    "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-24T18:02:59+00:00",
+    "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+    "category": "AI 工具"
+  },
+  {
+    "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+    "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-24T17:00:00+00:00",
+    "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+    "category": "AI 工具"
+  },
+  {
+    "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+    "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-24T16:46:00+00:00",
+    "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+    "category": "產業趨勢"
+  },
+  {
+    "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+    "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-24T16:10:00+00:00",
+    "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+    "category": "其他"
+  },
+  {
+    "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+    "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-24T16:02:37+00:00",
+    "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+    "category": "其他"
+  },
+  {
+    "title": "How Gemini is changing the game for Golden State's organization and fans.",
+    "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+    "source": "Google AI Blog",
+    "date": "2026-11-24T16:00:00+00:00",
+    "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+    "category": "模型更新"
+  },
+  {
+    "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+    "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-24T15:51:07+00:00",
+    "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+    "category": "其他"
+  },
+  {
+    "title": "Raising the stakes for enterprise networks with AI modernization",
+    "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tas",
+    "source": "MIT Technology Review",
+    "date": "2026-11-24T15:15:16+00:00",
+    "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+    "category": "其他"
+  },
+  {
+    "title": "The Download: AI’s gas power boom and a consciousness reality check",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obs",
+    "source": "MIT Technology Review",
+    "date": "2026-11-24T13:10:00+00:00",
+    "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
+    "category": "其他"
+  },
+  {
+    "title": "Data centers are getting their own natural gas power plants",
+    "summary": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to ",
+    "source": "MIT Technology Review",
+    "date": "2026-11-24T11:00:00+00:00",
+    "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+    "category": "AI 工具"
+  },
+  {
     "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
     "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
     "source": "TechCrunch AI",
@@ -357,126 +477,6 @@
     "source": "TechCrunch AI",
     "date": "2026-11-19T14:54:39+00:00",
     "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
-    "category": "其他"
-  },
-  {
-    "title": "Superhuman pushes its Go assistant everywhere",
-    "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-19T14:00:00+00:00",
-    "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
-    "category": "AI 工具"
-  },
-  {
-    "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Resear",
-    "source": "MIT Technology Review",
-    "date": "2026-11-19T13:10:00+00:00",
-    "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
-    "category": "其他"
-  },
-  {
-    "title": "A human liver has been kept alive outside the body for a record seven weeks",
-    "summary": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending ",
-    "source": "MIT Technology Review",
-    "date": "2026-11-19T12:00:00+00:00",
-    "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
-    "category": "其他"
-  },
-  {
-    "title": "What a billion-dollar deal says about the US battery market",
-    "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to",
-    "source": "MIT Technology Review",
-    "date": "2026-11-19T11:00:00+00:00",
-    "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
-    "category": "產業趨勢"
-  },
-  {
-    "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-    "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short an",
-    "source": "TechCrunch AI",
-    "date": "2026-11-19T00:42:56+00:00",
-    "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-    "category": "其他"
-  },
-  {
-    "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-    "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-18T23:45:00+00:00",
-    "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-    "category": "其他"
-  },
-  {
-    "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-    "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-18T23:25:17+00:00",
-    "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
-    "category": "其他"
-  },
-  {
-    "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-    "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-18T23:17:28+00:00",
-    "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-    "category": "其他"
-  },
-  {
-    "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-    "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-18T22:58:11+00:00",
-    "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-    "category": "模型更新"
-  },
-  {
-    "title": "Anthropic prices IPO at $83 a share, above projected range",
-    "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-18T22:11:15+00:00",
-    "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-    "category": "產業趨勢"
-  },
-  {
-    "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
-    "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-18T21:57:40+00:00",
-    "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
-    "category": "其他"
-  },
-  {
-    "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
-    "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-18T21:34:13+00:00",
-    "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
-    "category": "其他"
-  },
-  {
-    "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
-    "summary": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-18T21:31:21+00:00",
-    "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
-    "category": "其他"
-  },
-  {
-    "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
-    "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-18T20:07:01+00:00",
-    "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
-    "category": "其他"
-  },
-  {
-    "title": "Sam Altman says his life is so weird that he’s unphased by Andrew Garfield portraying him in upcoming movie",
-    "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-18T20:07:01+00:00",
-    "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/",
     "category": "其他"
   }
 ]
