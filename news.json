@@ -1,5 +1,13 @@
 [
   {
+    "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+    "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-25T22:44:32+00:00",
+    "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+    "category": "其他"
+  },
+  {
     "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
     "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
     "source": "TechCrunch AI",
@@ -470,13 +478,5 @@
     "date": "2026-11-20T13:10:00+00:00",
     "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
     "category": "其他"
-  },
-  {
-    "title": "Apple may be developing its own AI agent that runs your Mac",
-    "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-20T00:56:01+00:00",
-    "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-    "category": "模型更新"
   }
 ]
