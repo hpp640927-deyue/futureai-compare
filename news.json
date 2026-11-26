@@ -1,5 +1,37 @@
 [
   {
+    "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+    "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-26T20:03:54+00:00",
+    "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+    "category": "其他"
+  },
+  {
+    "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+    "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-26T16:00:00+00:00",
+    "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+    "category": "產業趨勢"
+  },
+  {
+    "title": "The Download: Better bionic hands and AI’s natural-gas boom",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The next generation of bionic hands is here—and they can feel Avi Davidson lost hi",
+    "source": "MIT Technology Review",
+    "date": "2026-11-26T13:10:00+00:00",
+    "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
+    "category": "其他"
+  },
+  {
+    "title": "The next generation of bionic hands is here—and they can feel",
+    "summary": "Avi Davidson lost his left hand as a teenager. Since then, he’s cycled through a few prosthetics. But his latest is different—it’s wired up to nerves in the upper part of his forearm and allows him to feel pressure. For ",
+    "source": "MIT Technology Review",
+    "date": "2026-11-26T09:59:00+00:00",
+    "url": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/",
+    "category": "其他"
+  },
+  {
     "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
     "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
     "source": "TechCrunch AI",
@@ -446,37 +478,5 @@
     "date": "2026-11-20T18:15:15+00:00",
     "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
     "category": "模型更新"
-  },
-  {
-    "title": "Chips can survive the space environment — can their financing?",
-    "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
-    "source": "TechCrunch AI",
-    "date": "2026-11-20T17:40:01+00:00",
-    "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
-    "category": "其他"
-  },
-  {
-    "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
-    "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, t",
-    "source": "TechCrunch AI",
-    "date": "2026-11-20T14:55:44+00:00",
-    "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
-    "category": "其他"
-  },
-  {
-    "title": "Six AI-powered gadgets that could make your home office smarter",
-    "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-20T14:00:00+00:00",
-    "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-    "category": "其他"
-  },
-  {
-    "title": "The Download: inside the quest to make our minds immortal",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To ",
-    "source": "MIT Technology Review",
-    "date": "2026-11-20T13:10:00+00:00",
-    "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
-    "category": "其他"
   }
 ]
